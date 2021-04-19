@@ -5,5 +5,5 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
 public interface VideoRepository extends BaseRepository<Video> {
-    Page<Video> findByTitleIgnoreCaseContaining(Pageable page, String name);
+    Page<Video> findByTitleIgnoreCaseContainingOrderByDateDesc(Pageable page, String name);
 }

@@ -21,7 +21,7 @@ public class VideoServiceImpl implements VideoService {
     @Override
     @Transactional(readOnly = true)
     public Page<Video> list(Pageable page, String name) {
-        return videoRepository.findByTitleIgnoreCaseContaining(page, name);
+        return videoRepository.findByTitleIgnoreCaseContainingOrderByDateDesc(page, name);
     }
 
 }
