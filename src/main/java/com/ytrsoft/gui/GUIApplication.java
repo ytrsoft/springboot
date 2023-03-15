@@ -24,6 +24,12 @@ public class GUIApplication extends Application implements LoginView.LoginListen
         loginView.setOnLoginListener(this);
         Scene scene = new Scene(loginView, 300, 200);
         primaryStage.setScene(scene);
+        Screen screen = Screen.getPrimary();
+        double width = screen.getBounds().getWidth();
+        double height = screen.getBounds().getHeight();
+        primaryStage.setX((width - 300) / 2);
+        primaryStage.setY((height - 200) / 2);
+        primaryStage.setScene(scene);
         primaryStage.setTitle("服务器");
         primaryStage.show();
     }
