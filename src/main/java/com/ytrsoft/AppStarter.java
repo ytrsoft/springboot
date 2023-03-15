@@ -1,12 +1,11 @@
 package com.ytrsoft;
 
-import org.springframework.boot.SpringApplication;
+import com.ytrsoft.gui.GUIApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AppStarter {
+public class AppStarter extends GUIApplication {
     public static void main(String[] args) {
-        SpringApplication.run(AppStarter.class, args);
+        launch(AppStarter.class, args);
     }
-
 }
