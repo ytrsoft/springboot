@@ -2,6 +2,7 @@ package com.ytrsoft.gui;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
+import javafx.stage.Screen;
 import javafx.stage.Stage;
 import org.springframework.boot.SpringApplication;
 import org.springframework.context.ConfigurableApplicationContext;
@@ -33,8 +34,15 @@ public class GUIApplication extends Application implements LoginView.LoginListen
             "--server.address=" + ip,
             "--server.port=" + port
         };
-        Scene scene = new Scene(logContainer, 600, 200);
+        Screen screen = Screen.getPrimary();
+        double width = screen.getBounds().getWidth();
+        double height = screen.getBounds().getHeight();
+        double w = width * 2 / 3;
+        double h = height * 2 / 3;
+        Scene scene = new Scene(logContainer, w, h);
         primaryStage.setScene(scene);
+        primaryStage.setX((width - w) / 2);
+        primaryStage.setY((height - h) / 2);
         Thread thread = new Thread(() -> {
             context = SpringApplication.run(global, args);
         });
