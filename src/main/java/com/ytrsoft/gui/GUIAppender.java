@@ -7,6 +7,7 @@ import ch.qos.logback.classic.spi.LoggingEvent;
 import ch.qos.logback.core.AppenderBase;
 import ch.qos.logback.core.Layout;
 import com.ytrsoft.gui.config.AppSettings;
+import org.apache.commons.lang3.ObjectUtils;
 import org.slf4j.LoggerFactory;
 
 public class GUIAppender extends AppenderBase<LoggingEvent> implements AppSettings {
@@ -15,7 +16,9 @@ public class GUIAppender extends AppenderBase<LoggingEvent> implements AppSettin
     protected void append(LoggingEvent event) {
         String level = event.getLevel().levelStr;
         String message = getFormattedMessage(event);
-        GUIApplication.logPage.append(level, message);
+        if (ObjectUtils.isNotEmpty(GUIApplication.logPage)) {
+            GUIApplication.logPage.append(level, message);
+        }
     }
 
     public String getFormattedMessage(LoggingEvent event) {

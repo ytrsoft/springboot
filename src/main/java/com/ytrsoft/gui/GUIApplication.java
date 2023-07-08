@@ -4,6 +4,7 @@ import com.ytrsoft.gui.config.AppSettings;
 import com.ytrsoft.gui.util.Logo;
 import com.ytrsoft.gui.util.Style;
 import javafx.application.Application;
+import javafx.application.Platform;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.stage.Screen;
@@ -18,7 +19,7 @@ public class GUIApplication extends Application implements AppSettings, LoginPag
 
     private static Class<? extends Application> global;
 
-    public static LogPage logPage = new LogPage();
+    public static LogPage logPage;
 
     @Override
     public void start(Stage primaryStage) {
@@ -57,6 +58,7 @@ public class GUIApplication extends Application implements AppSettings, LoginPag
         double height = screen.getBounds().getHeight();
         double w = width * 2 / 3;
         double h = height * 2 / 3;
+        logPage = new LogPage();
         Scene scene = new Scene(logPage, w, h);
         Style.deploy(scene);
         primaryStage.setResizable(true);

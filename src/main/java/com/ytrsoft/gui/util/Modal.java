@@ -32,7 +32,7 @@ public final class Modal implements AppSettings {
         button.getStyleClass().add(PRIMARY_BG);
     }
 
-    public static void msg(String content) {
+    public static void info(String content) {
         INFO_ALERT.setContentText(content);
         INFO_ALERT.showAndWait();
     }

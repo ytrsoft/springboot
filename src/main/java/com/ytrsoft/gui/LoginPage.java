@@ -78,9 +78,9 @@ public class LoginPage extends GridPane implements AppSettings, EventHandler<Act
         String ip = ipTextField.getText().trim();
         String port = portTextField.getText().trim();
         if (StringUtils.isEmpty(ip)) {
-            Modal.msg(Text.LABEL_IP_HINT);
+            Modal.info(Text.LABEL_IP_HINT);
         } else if (StringUtils.isEmpty(port)) {
-            Modal.msg(Text.LABEL_PORT_HINT);
+            Modal.info(Text.LABEL_PORT_HINT);
         } else {
             if (ObjectUtils.isNotEmpty(listener)) {
                 listener.login(ip, port);
