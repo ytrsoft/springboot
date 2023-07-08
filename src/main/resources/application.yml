@@ -19,4 +19,4 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql:///test?serverTimezone=UTC
     username: root
-    password: rootroot
+    password: root
