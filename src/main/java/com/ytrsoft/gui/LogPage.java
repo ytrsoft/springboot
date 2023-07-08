@@ -35,9 +35,13 @@ public class LogPage extends VBox implements AppSettings {
             LOG_PADDING
         ));
         scrollPane = new ScrollPane();
-        scrollPane.setHbarPolicy(ScrollPane.ScrollBarPolicy.AS_NEEDED);
-        scrollPane.setVbarPolicy(ScrollPane.ScrollBarPolicy.AS_NEEDED);
+        scrollPane.setHbarPolicy(ScrollPane.ScrollBarPolicy.NEVER);
+        scrollPane.setVbarPolicy(ScrollPane.ScrollBarPolicy.NEVER);
         scrollPane.getStyleClass().add(MAIN_BG);
+        scrollPane.heightProperty().addListener((observable -> {
+            scrollPane.layout();
+            scrollPane.setVvalue(1.0d);
+        }));
         labelBox = new VBox();
         labelBox.getStyleClass().add(MAIN_BG);
         scrollPane.setContent(labelBox);
@@ -54,9 +58,7 @@ public class LogPage extends VBox implements AppSettings {
         label.maxWidthProperty().bind(scrollPane.widthProperty().subtract(20));
         Platform.runLater(() -> {
             labelBox.getChildren().add(label);
-            scrollPane.setVvalue(1.0);
         });
     }
-
 
 }

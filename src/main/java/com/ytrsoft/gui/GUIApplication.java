@@ -55,6 +55,7 @@ public class GUIApplication extends Application implements AppSettings, LoginPag
         double h = height * 2 / 3;
         Scene scene = new Scene(logPage, w, h);
         Style.deploy(scene);
+        primaryStage.setResizable(true);
         primaryStage.setScene(scene);
         primaryStage.setX((width - w) / 2);
         primaryStage.setY((height - h) / 2);

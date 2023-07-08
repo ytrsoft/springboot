@@ -1,4 +1,5 @@
 .main-bg {
+    -fx-background: transparent;
     -fx-background-color: rgb(60, 63, 65);
 }
 
