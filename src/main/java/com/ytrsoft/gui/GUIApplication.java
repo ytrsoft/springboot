@@ -1,9 +1,11 @@
 package com.ytrsoft.gui;
 
 import com.ytrsoft.gui.config.AppSettings;
+import com.ytrsoft.gui.util.Logo;
 import com.ytrsoft.gui.util.Style;
 import javafx.application.Application;
 import javafx.scene.Scene;
+import javafx.scene.image.Image;
 import javafx.stage.Screen;
 import javafx.stage.Stage;
 import org.apache.commons.lang3.ObjectUtils;
@@ -33,6 +35,8 @@ public class GUIApplication extends Application implements AppSettings, LoginPag
         primaryStage.setTitle(APP_TITLE);
         primaryStage.centerOnScreen();
         primaryStage.setResizable(false);
+        Image logo = Logo.load();
+        primaryStage.getIcons().add(logo);
         primaryStage.show();
     }
 
