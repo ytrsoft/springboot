@@ -4,7 +4,6 @@ import com.ytrsoft.gui.config.AppSettings;
 import com.ytrsoft.gui.util.Logo;
 import com.ytrsoft.gui.util.Style;
 import javafx.application.Application;
-import javafx.application.Platform;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.stage.Screen;
