@@ -4,7 +4,9 @@ import com.ytrsoft.entity.Chinese;
 import com.ytrsoft.repository.ChineseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
+import org.springframework.data.domain.Sort;
 import org.springframework.data.jpa.domain.Specification;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -27,6 +29,9 @@ public class ChineseServiceImpl implements ChineseService {
     @Transactional(readOnly = true)
     public Page<Chinese> findAll(Chinese search, Pageable pageable) {
         Specification<Chinese> spec = createSpecification(search);
+        if (!pageable.getSort().isSorted()) {
+            pageable = PageRequest.of(pageable.getPageNumber(), pageable.getPageSize(), Sort.by("tone").ascending());
+        }
         return chineseRepository.findAll(spec, pageable);
     }
 
