@@ -48,13 +48,12 @@
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
+            <artifactId>spring-boot-starter-data-rest</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.jfoenix</groupId>
-            <artifactId>jfoenix</artifactId>
-            <version>8.0.10</version>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 
@@ -78,52 +77,6 @@
                         </exclude>
                     </excludes>
                 </configuration>
-            </plugin>
-            <plugin>
-                <groupId>com.akathist.maven.plugins.launch4j</groupId>
-                <artifactId>launch4j-maven-plugin</artifactId>
-                <version>2.1.1</version>
-                <executions>
-                    <execution>
-                        <id>l4j-clui</id>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>launch4j</goal>
-                        </goals>
-                        <configuration>
-                            <headerType>gui</headerType>
-                            <outfile>${project.build.directory}/server.exe</outfile>
-                            <jar>${project.build.directory}/${project.build.finalName}.jar</jar>
-                            <icon>${project.basedir}/src/main/resources/fx/logo.ico</icon>
-                            <errTitle>Error Title</errTitle>
-                            <classPath>
-                                <mainClass>org.springframework.boot.loader.JarLauncher</mainClass>
-                                <addDependencies>true</addDependencies>
-                                <preCp>anything</preCp>
-                            </classPath>
-                            <jre>
-                                <minVersion>1.8.0</minVersion>
-                                <bundledJre64Bit>false</bundledJre64Bit>
-                                <bundledJreAsFallback>false</bundledJreAsFallback>
-                                <jdkPreference>preferJdk</jdkPreference>
-                                <initialHeapSize>128</initialHeapSize>
-                                <maxHeapSize>1024</maxHeapSize>
-                                <path>./jre</path>
-                            </jre>
-                            <versionInfo>
-                                <fileVersion>1.0.0.0</fileVersion>
-                                <txtFileVersion>1.0</txtFileVersion>
-                                <fileDescription>server</fileDescription>
-                                <copyright>ytrsoft</copyright>
-                                <productVersion>1.0.0.0</productVersion>
-                                <txtProductVersion>server</txtProductVersion>
-                                <productName>server</productName>
-                                <internalName>server</internalName>
-                                <originalFilename>server.exe</originalFilename>
-                            </versionInfo>
-                        </configuration>
-                    </execution>
-                </executions>
             </plugin>
         </plugins>
     </build>
