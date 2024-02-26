@@ -1,0 +1,2480 @@
+[
+  {
+    "name": "北京朝阳区北京东方国信科技股份有限公司",
+    "longitude": "116.473809",
+    "latitude": "40.021444",
+    "brandId": "14928c4d2a78182c1nd_39q5GA~~"
+  },
+  {
+    "name": "长沙圣爵菲斯大酒店欢城四层",
+    "longitude": "113.049822",
+    "latitude": "28.236073",
+    "brandId": "14928c4d2a78182c1nd_39q5GA~~"
+  },
+  {
+    "name": "长沙开福区湖南高速500-2号",
+    "longitude": "113.054447",
+    "latitude": "28.23042",
+    "brandId": "14928c4d2a78182c1nd_39q5GA~~"
+  },
+  {
+    "name": "长沙开福区凯乐微谷(建设中)B座7楼",
+    "longitude": "112.994324",
+    "latitude": "28.237356",
+    "brandId": "ab800c42920f6c1f1nFz29-4FFI~"
+  },
+  {
+    "name": "长沙开福区金盆丘社区服务中心恒昌集团",
+    "longitude": "112.933976",
+    "latitude": "28.338861",
+    "brandId": "1bfa5601b9501fc71nV_3NS0FVE~"
+  },
+  {
+    "name": "长沙普洛斯物流园六谷大药房",
+    "longitude": "112.926929",
+    "latitude": "28.335649",
+    "brandId": "1bfa5601b9501fc71nV_3NS0FVE~"
+  },
+  {
+    "name": "郑州新郑市郑州航空港科创中心13号楼",
+    "longitude": "113.829009",
+    "latitude": "34.495882",
+    "brandId": "1bfa5601b9501fc71nV_3NS0FVE~"
+  },
+  {
+    "name": "上饶信州区中科数创园4楼",
+    "longitude": "118.021026",
+    "latitude": "28.482814",
+    "brandId": "c8311034740eee121nVz09S7E1U~"
+  },
+  {
+    "name": "深圳南山区华润前海中心1",
+    "longitude": "113.899613",
+    "latitude": "22.531082",
+    "brandId": "c8311034740eee121nVz09S7E1U~"
+  },
+  {
+    "name": "西安长安区协同创新港雨果B座",
+    "longitude": "108.767876",
+    "latitude": "34.25655",
+    "brandId": "c8311034740eee121nVz09S7E1U~"
+  },
+  {
+    "name": "长沙芙蓉区友阿总部办公大楼404办公室",
+    "longitude": "113.007717",
+    "latitude": "28.187264",
+    "brandId": "cfda861ff312ac2e0nRz2tu1"
+  },
+  {
+    "name": "长沙芙蓉区长沙佳兆业广场28楼",
+    "longitude": "113.001113",
+    "latitude": "28.195141",
+    "brandId": "cfda861ff312ac2e0nRz2tu1"
+  },
+  {
+    "name": "长沙雨花区铭诚国际16楼",
+    "longitude": "113.020876",
+    "latitude": "28.183976",
+    "brandId": "cfda861ff312ac2e0nRz2tu1"
+  },
+  {
+    "name": "杭州滨江区阿里巴巴滨江园区1",
+    "longitude": "120.190371",
+    "latitude": "30.1896",
+    "brandId": "95b4b47ef9141c671nd52ty_"
+  },
+  {
+    "name": "西安雁塔区大华股份西安数智产业园5号楼9层",
+    "longitude": "108.834337",
+    "latitude": "34.218144",
+    "brandId": "95b4b47ef9141c671nd52ty_"
+  },
+  {
+    "name": "北京顺义区博润科技园1",
+    "longitude": "116.554941",
+    "latitude": "40.119711",
+    "brandId": "95b4b47ef9141c671nd52ty_"
+  },
+  {
+    "name": "长沙湖南大学国家大学科技园东栋5楼518",
+    "longitude": "112.874451",
+    "latitude": "28.215543",
+    "brandId": "09f38cb74eb5afb01XN72dq-EFA~"
+  },
+  {
+    "name": "长沙雨花区华雅花园1栋1202",
+    "longitude": "113.032047",
+    "latitude": "28.159585",
+    "brandId": "9a7cc6eacf93529a1XV53NW1GVs~"
+  },
+  {
+    "name": "长沙开福区富湾国际3栋",
+    "longitude": "112.979278",
+    "latitude": "28.25172",
+    "brandId": "dc3c3941a2b5447e1Xd42tm-GFY~"
+  },
+  {
+    "name": "长沙开福区天健壹平方英里D栋2902房",
+    "longitude": "112.986387",
+    "latitude": "28.221965",
+    "brandId": "92077cbc6040650b1nRy3NW5Fw~~"
+  },
+  {
+    "name": "长沙天心区新时空大厦21楼B区",
+    "longitude": "112.985066",
+    "latitude": "28.160608",
+    "brandId": "9938d6d47e4df7251nR_0t24GQ~~"
+  },
+  {
+    "name": "长沙芙蓉区芙蓉中路398号",
+    "longitude": "112.98721",
+    "latitude": "28.192301",
+    "brandId": "9938d6d47e4df7251nR_0t24GQ~~"
+  },
+  {
+    "name": "长沙长沙县双佳大酒店(长沙黄花机场店)8楼",
+    "longitude": "113.149805",
+    "latitude": "28.174631",
+    "brandId": "e89e48aba7dca5811nV73921E1M~"
+  },
+  {
+    "name": "岳阳岳阳楼区湖南三湘四海水务有限公司湖南三湘四海水务有限公司",
+    "longitude": "113.194243",
+    "latitude": "29.327569",
+    "brandId": "e89e48aba7dca5811nV73921E1M~"
+  },
+  {
+    "name": "长沙芙蓉区湖南文化大厦B座1906",
+    "longitude": "112.997682",
+    "latitude": "28.189722",
+    "brandId": "13340bb3b06931691nZ92Ni4"
+  },
+  {
+    "name": "北京朝阳区方恒时代B座1006",
+    "longitude": "116.484074",
+    "latitude": "39.992624",
+    "brandId": "13340bb3b06931691nZ92Ni4"
+  },
+  {
+    "name": "长沙芙蓉区新南天·古汉国际广场1103",
+    "longitude": "113.025136",
+    "latitude": "28.203511",
+    "brandId": "b1fa35080699cbe21X1639u4FFM~"
+  },
+  {
+    "name": "长沙岳麓区中兴通讯长沙基地南门",
+    "longitude": "112.8798",
+    "latitude": "28.23802",
+    "brandId": "5a5f67cc506244cf1XV_39i9EFo~"
+  },
+  {
+    "name": "长沙岳麓区湖南比邻星科技有限公司3楼304",
+    "longitude": "112.944528",
+    "latitude": "28.151888",
+    "brandId": "5a5f67cc506244cf1XV_39i9EFo~"
+  },
+  {
+    "name": "长沙天心区鑫远国际大厦A座西单元607",
+    "longitude": "112.976793",
+    "latitude": "28.111598",
+    "brandId": "5a5f67cc506244cf1XV_39i9EFo~"
+  },
+  {
+    "name": "北京朝阳区阿里中心·望京B座1",
+    "longitude": "116.489878",
+    "latitude": "40.002528",
+    "brandId": "e715aa1be4283fc21nd62tq5"
+  },
+  {
+    "name": "北京海淀区元中心1",
+    "longitude": "116.315515",
+    "latitude": "40.050125",
+    "brandId": "e715aa1be4283fc21nd62tq5"
+  },
+  {
+    "name": "杭州滨江区阿里巴巴滨江园区1",
+    "longitude": "120.190371",
+    "latitude": "30.1896",
+    "brandId": "e715aa1be4283fc21nd62tq5"
+  },
+  {
+    "name": "长沙雨花区上城·星座上城星座1820",
+    "longitude": "112.996677",
+    "latitude": "28.185442",
+    "brandId": "935e5e30b2f827311XV90928Fg~~"
+  },
+  {
+    "name": "北京海淀区北京声迅电子股份有限公司海淀区西北旺镇丰豪东路9号院11号楼",
+    "longitude": "116.24747",
+    "latitude": "40.072256",
+    "brandId": "aad72d40b657af791nN42dS_Eg~~"
+  },
+  {
+    "name": "长沙长沙县长沙银行(临空支行)楼上609",
+    "longitude": "113.204215",
+    "latitude": "28.19494",
+    "brandId": "aad72d40b657af791nN42dS_Eg~~"
+  },
+  {
+    "name": "长沙长沙县松雅湖国际公寓1号楼",
+    "longitude": "113.090922",
+    "latitude": "28.257019",
+    "brandId": "aad72d40b657af791nN42dS_Eg~~"
+  },
+  {
+    "name": "长沙岳麓区前行科创园(西湖公园园区)B3栋121-126",
+    "longitude": "112.936411",
+    "latitude": "28.207609",
+    "brandId": "156abcf761d9eb2c03Z92dq5Fw~~"
+  },
+  {
+    "name": "长沙岳麓区麓谷企业广场B3",
+    "longitude": "112.885566",
+    "latitude": "28.207712",
+    "brandId": "9d1b221a9dcc5eef1XB-0ty0FVQ~"
+  },
+  {
+    "name": "合肥蜀山区合肥软件园2期J2楼C区",
+    "longitude": "117.137023",
+    "latitude": "31.837906",
+    "brandId": "d78b3a9074cb0dae1XB-2965EA~~"
+  },
+  {
+    "name": "南京玄武区苏粮国际大厦南京银行",
+    "longitude": "118.784628",
+    "latitude": "32.055482",
+    "brandId": "d78b3a9074cb0dae1XB-2965EA~~"
+  },
+  {
+    "name": "北京顺义区民生银行总部基地科技部顺安南路68号",
+    "longitude": "116.66079",
+    "latitude": "40.161907",
+    "brandId": "d78b3a9074cb0dae1XB-2965EA~~"
+  },
+  {
+    "name": "长沙天心区鑫远国际大厦A座2F",
+    "longitude": "112.976946",
+    "latitude": "28.111703",
+    "brandId": "deeb7916a39a7b3d0Hx80t29"
+  },
+  {
+    "name": "西安雍信花园2栋C单元301",
+    "longitude": "108.905963",
+    "latitude": "34.2289",
+    "brandId": "deeb7916a39a7b3d0Hx80t29"
+  },
+  {
+    "name": "长沙雨花区嘉熙中心A栋33楼3305号",
+    "longitude": "112.990761",
+    "latitude": "28.185284",
+    "brandId": "6b3331cffaa2c3a61nJ53t-0GFE~"
+  },
+  {
+    "name": "长沙岳麓区长沙芯城科技园8栋801室",
+    "longitude": "112.875279",
+    "latitude": "28.230876",
+    "brandId": "d3fe564b6700163403Z-3NW8Fw~~"
+  },
+  {
+    "name": "长沙湖南省气象局(北门)湖南省气象局气象科技大楼10楼",
+    "longitude": "112.98737",
+    "latitude": "28.160001",
+    "brandId": "8f768acf6cc74db01XVy29u0FFs~"
+  },
+  {
+    "name": "长沙天心区保利国际广场B3栋2613",
+    "longitude": "112.96799",
+    "latitude": "28.165523",
+    "brandId": "8f768acf6cc74db01XVy29u0FFs~"
+  },
+  {
+    "name": "长沙雨花区蔚徕酒店(长沙五一广场黄土岭地铁站店)",
+    "longitude": "112.987691",
+    "latitude": "28.159971",
+    "brandId": "8f768acf6cc74db01XVy29u0FFs~"
+  },
+  {
+    "name": "长沙芙蓉区方舟大厦A座",
+    "longitude": "113.020821",
+    "latitude": "28.185035",
+    "brandId": "5545c7f2c4fe34741XN70926E1c~"
+  },
+  {
+    "name": "长沙岳麓区城市便捷酒店(长沙梅溪湖东店)15楼",
+    "longitude": "112.904384",
+    "latitude": "28.207308",
+    "brandId": "84d22e15cf0b87bd0Xd-39m6GQ~~"
+  },
+  {
+    "name": "杭州余杭区阿里巴巴西溪B区1",
+    "longitude": "120.027276",
+    "latitude": "30.275962",
+    "brandId": "b58a0d258894b3c51HZ_0928EFQ~"
+  },
+  {
+    "name": "马鞍山花山区东南大学国家大学科技园双创基地(马鞍山)C栋6F",
+    "longitude": "118.531072",
+    "latitude": "31.719876",
+    "brandId": "b58a0d258894b3c51HZ_0928EFQ~"
+  },
+  {
+    "name": "西安雁塔区洛克大厦5楼",
+    "longitude": "108.890299",
+    "latitude": "34.215206",
+    "brandId": "b58a0d258894b3c51HZ_0928EFQ~"
+  },
+  {
+    "name": "马鞍山花山区东南大学国家大学科技园双创基地(马鞍山)C栋",
+    "longitude": "118.531072",
+    "latitude": "31.719876",
+    "brandId": "9a80334346a8f4661XR73Ny1F1Q~"
+  },
+  {
+    "name": "西安雁塔区洛克大厦5楼",
+    "longitude": "108.890299",
+    "latitude": "34.215206",
+    "brandId": "9a80334346a8f4661XR73Ny1F1Q~"
+  },
+  {
+    "name": "杭州余杭区阿里巴巴西溪B区1",
+    "longitude": "120.027276",
+    "latitude": "30.275962",
+    "brandId": "9a80334346a8f4661XR73Ny1F1Q~"
+  },
+  {
+    "name": "武汉洪山区科技园公寓现代服务业基地B座9楼（有鱼有虾后面高楼）",
+    "longitude": "114.402857",
+    "latitude": "30.453579",
+    "brandId": "426ebbacce557a290HVz0t--"
+  },
+  {
+    "name": "长沙岳麓区广电计量大厦长沙市高新开发区（岳麓区）文轩路麓谷企业广场B8栋广电计量大厦10楼",
+    "longitude": "112.888111",
+    "latitude": "28.205939",
+    "brandId": "426ebbacce557a290HVz0t--"
+  },
+  {
+    "name": "西安碑林区陕西省人民医院不坐班，跑相关市场",
+    "longitude": "108.93015",
+    "latitude": "34.239675",
+    "brandId": "426ebbacce557a290HVz0t--"
+  },
+  {
+    "name": "长沙长沙县长沙科技新城C6栋1805室",
+    "longitude": "113.118215",
+    "latitude": "28.198448",
+    "brandId": "4eac604d8643268e33x63tm0GQ~~"
+  },
+  {
+    "name": "长沙长沙县长沙科技新城c6栋三一众创18层1805",
+    "longitude": "113.118026",
+    "latitude": "28.201173",
+    "brandId": "4eac604d8643268e33x63tm0GQ~~"
+  },
+  {
+    "name": "长沙雨花区万坤图财富广场3栋1913室",
+    "longitude": "113.030288",
+    "latitude": "28.138137",
+    "brandId": "4eac604d8643268e33x63tm0GQ~~"
+  },
+  {
+    "name": "北京国际财经中心A座1201-1202",
+    "longitude": "116.309139",
+    "latitude": "39.935505",
+    "brandId": "7ada058f375f2c1d1XB82Ni1GVE~"
+  },
+  {
+    "name": "长沙天心区创谷·长沙天心文化(广告)产业园1栋10层",
+    "longitude": "112.973773",
+    "latitude": "28.094518",
+    "brandId": "7ada058f375f2c1d1XB82Ni1GVE~"
+  },
+  {
+    "name": "上海黄浦区上海资信有限公司(北京东路)0",
+    "longitude": "121.484557",
+    "latitude": "31.24059",
+    "brandId": "7ada058f375f2c1d1XB82Ni1GVE~"
+  },
+  {
+    "name": "长沙岳麓区瑞合科创中心1308",
+    "longitude": "112.878745",
+    "latitude": "28.235501",
+    "brandId": "d73dbb7cc10befc61HR60tu1EVI~"
+  },
+  {
+    "name": "苏州虎丘区中新大厦(崇文路)低区16楼",
+    "longitude": "120.725663",
+    "latitude": "31.262645",
+    "brandId": "7d98fc2ec5680cb41nx52N-0Els~"
+  },
+  {
+    "name": "长沙开福区绿地中心-T1办公楼2910室",
+    "longitude": "112.987875",
+    "latitude": "28.210777",
+    "brandId": "7d98fc2ec5680cb41nx52N-0Els~"
+  },
+  {
+    "name": "南京建邺区舜禹大厦17-A2",
+    "longitude": "118.733954",
+    "latitude": "31.983104",
+    "brandId": "7d98fc2ec5680cb41nx52N-0Els~"
+  },
+  {
+    "name": "长沙岳麓区麓谷信息港湖南长沙国家高新开发区麓谷信恩港4c013",
+    "longitude": "112.891572",
+    "latitude": "28.214052",
+    "brandId": "768e48e6f2301e5b1X143t--Flo~"
+  },
+  {
+    "name": "武汉江夏区现代·光谷世贸中心光谷世贸中心G栋602",
+    "longitude": "114.421426",
+    "latitude": "30.472087",
+    "brandId": "768e48e6f2301e5b1X143t--Flo~"
+  },
+  {
+    "name": "长沙岳麓区中电软件园总部大楼4楼402",
+    "longitude": "112.882461",
+    "latitude": "28.230056",
+    "brandId": "345e06e63f3ad4b41nF839m_EQ~~"
+  },
+  {
+    "name": "上海闵行区宏汇莲花广场B座B301",
+    "longitude": "121.396451",
+    "latitude": "31.156452",
+    "brandId": "345e06e63f3ad4b41nF839m_EQ~~"
+  },
+  {
+    "name": "北京朝阳区神州灵云(北京)科技有限公司北京市朝阳区望京阜通东大街6号方恒国际中心A座2002室",
+    "longitude": "116.480831",
+    "latitude": "39.98951",
+    "brandId": "345e06e63f3ad4b41nF839m_EQ~~"
+  },
+  {
+    "name": "长沙雨花区香樟鑫都湖南省中小企业服务中心大楼21楼",
+    "longitude": "113.027874",
+    "latitude": "28.13588",
+    "brandId": "f74bc6cfc7a5368e1HV539m_FlA~"
+  },
+  {
+    "name": "长沙岳麓区麓谷科技创新创业园A1栋26楼",
+    "longitude": "112.855401",
+    "latitude": "28.235359",
+    "brandId": "383c4342fa9d1dcd1nF93dW4GVE~"
+  },
+  {
+    "name": "长沙岳麓区麓谷企业广场A1栋1单元101室",
+    "longitude": "112.884032",
+    "latitude": "28.208105",
+    "brandId": "21d6fa1ac96845af1nBz2tS5GQ~~"
+  },
+  {
+    "name": "长沙开福区新时代广场南栋921室",
+    "longitude": "112.987911",
+    "latitude": "28.220052",
+    "brandId": "e58dc3d2e7110a0a1nN63Nu6E1U~"
+  },
+  {
+    "name": "长沙浏阳市长沙爱达环保科技有限公司浏阳市镇头镇环保科技园二期",
+    "longitude": "113.304832",
+    "latitude": "28.011171",
+    "brandId": "19be8df75ae63d301XR_29S6EVs~"
+  },
+  {
+    "name": "深圳市南山区桃源街道学苑大道1001号南山智园C1栋7楼",
+    "longitude": "114.00438",
+    "latitude": "22.594751",
+    "brandId": "e44063ab762f0e6e1XR60t29"
+  },
+  {
+    "name": "保定莲池区长城汽车股份有限公司朝阳南大街2266号",
+    "longitude": "115.461766",
+    "latitude": "38.816576",
+    "brandId": "e44063ab762f0e6e1XR60t29"
+  },
+  {
+    "name": "北京顺义区数码视讯产业园理想汽车",
+    "longitude": "116.574925",
+    "latitude": "40.168267",
+    "brandId": "e44063ab762f0e6e1XR60t29"
+  },
+  {
+    "name": "长沙望城区真人桥家园11栋2单元",
+    "longitude": "112.815963",
+    "latitude": "28.20421",
+    "brandId": "aa8316be124ed93d1X162du9FlQ~"
+  },
+  {
+    "name": "长沙岳麓区麓谷企业广场C3栋606",
+    "longitude": "112.885566",
+    "latitude": "28.207712",
+    "brandId": "6ded0060d716539c03F_2t-1Ew~~"
+  },
+  {
+    "name": "南昌江西裕民银行(总行)裕民银行",
+    "longitude": "115.885241",
+    "latitude": "28.713572",
+    "brandId": "6ded0060d716539c03F_2t-1Ew~~"
+  },
+  {
+    "name": "武汉武昌区中国工商银行(湖北省分行)金融科技部",
+    "longitude": "114.340512",
+    "latitude": "30.554378",
+    "brandId": "6ded0060d716539c03F_2t-1Ew~~"
+  },
+  {
+    "name": "长沙岳麓区保利·麓谷林语I区3B栋19楼19028",
+    "longitude": "112.873332",
+    "latitude": "28.221354",
+    "brandId": "ed251ebc373619751XR72dq-FlA~"
+  },
+  {
+    "name": "长沙岳麓区湖南铭迅网络科技有限公司802",
+    "longitude": "112.914372",
+    "latitude": "28.211255",
+    "brandId": "ed251ebc373619751XR72dq-FlA~"
+  },
+  {
+    "name": "长沙岳麓区长沙中电软件园10栋4楼",
+    "longitude": "112.879325",
+    "latitude": "28.227621",
+    "brandId": "bcd66dd713df4c2b1Hd53Nm_Ew~~"
+  },
+  {
+    "name": "长沙岳麓区长沙中电软件园10栋",
+    "longitude": "112.883009",
+    "latitude": "28.228608",
+    "brandId": "bcd66dd713df4c2b1Hd53Nm_Ew~~"
+  },
+  {
+    "name": "长沙岳麓区银盆岭街道361",
+    "longitude": "112.954465",
+    "latitude": "28.221593",
+    "brandId": "bcd66dd713df4c2b1Hd53Nm_Ew~~"
+  },
+  {
+    "name": "北京华控大厦812",
+    "longitude": "116.301285",
+    "latitude": "40.055165",
+    "brandId": "aecc390a86c560901XB709s~"
+  },
+  {
+    "name": "西安未央区联益中心807",
+    "longitude": "108.928675",
+    "latitude": "34.33772",
+    "brandId": "aecc390a86c560901XB709s~"
+  },
+  {
+    "name": "长沙中电软件园二期D3-16",
+    "longitude": "112.885048",
+    "latitude": "28.228308",
+    "brandId": "aecc390a86c560901XB709s~"
+  },
+  {
+    "name": "赣州章贡区赣州银行金融大厦赣州银行",
+    "longitude": "114.9368",
+    "latitude": "25.820804",
+    "brandId": "6378403b3ea8ffc91XB73tW-"
+  },
+  {
+    "name": "西宁城西区青海省农村信用社联合社海湖新区海晏路83号",
+    "longitude": "101.716241",
+    "latitude": "36.650561",
+    "brandId": "6378403b3ea8ffc91XB73tW-"
+  },
+  {
+    "name": "长沙岳麓区万兴创意科技大厦6楼",
+    "longitude": "112.884794",
+    "latitude": "28.230416",
+    "brandId": "6378403b3ea8ffc91XB73tW-"
+  },
+  {
+    "name": "长沙岳麓区湖南优积谷网络科技有限公司A12栋",
+    "longitude": "112.885624",
+    "latitude": "28.227744",
+    "brandId": "01c3d1f460782e700HV40t-9"
+  },
+  {
+    "name": "长沙雨花区复地·星光天地1栋2515",
+    "longitude": "113.007743",
+    "latitude": "28.112661",
+    "brandId": "38c1e2e397e380771nN-29m5Fls~"
+  },
+  {
+    "name": "长沙开福区聚恒科技园3号楼1803/1810",
+    "longitude": "113.02978",
+    "latitude": "28.230295",
+    "brandId": "9e48345cd7e5aec61HV839m5GVE~"
+  },
+  {
+    "name": "长沙岳麓区北京大学长沙计算与数字经济研究院尖山湖路2号",
+    "longitude": "112.877265",
+    "latitude": "28.23975",
+    "brandId": "e1625fd59a36bd341XF83Ny_EVo~"
+  },
+  {
+    "name": "常德武陵区成城·中德时代广场6楼",
+    "longitude": "111.690851",
+    "latitude": "29.046737",
+    "brandId": "67fb834b5383c9391nB82ty-F1I~"
+  },
+  {
+    "name": "长沙岳麓区麓谷企业广场C3栋2楼",
+    "longitude": "112.885566",
+    "latitude": "28.207712",
+    "brandId": "67fb834b5383c9391nB82ty-F1I~"
+  },
+  {
+    "name": "长沙西中心T1号楼19楼",
+    "longitude": "112.913272",
+    "latitude": "28.209418",
+    "brandId": "67fb834b5383c9391nB82ty-F1I~"
+  },
+  {
+    "name": "长沙雨花区新里程大厦5栋1518",
+    "longitude": "113.039904",
+    "latitude": "28.128487",
+    "brandId": "380a1bba244839301XB83929FQ~~"
+  },
+  {
+    "name": "长沙芙蓉区银华大厦4层017室",
+    "longitude": "112.98905",
+    "latitude": "28.195375",
+    "brandId": "1dfa8dc8e4d7385b1XNz3d-6FFc~"
+  },
+  {
+    "name": "长沙芙蓉区昊天大厦商务楼A座433",
+    "longitude": "112.991759",
+    "latitude": "28.198273",
+    "brandId": "47b68c86f008cd071XN929-_FFA~"
+  },
+  {
+    "name": "广州天河区广发证券大厦13",
+    "longitude": "113.344009",
+    "latitude": "23.121191",
+    "brandId": "ff7abaa6a8ee4aa01X1-2dW4"
+  },
+  {
+    "name": "北京朝阳区嘉铭中心A座11层",
+    "longitude": "116.460772",
+    "latitude": "39.927956",
+    "brandId": "ff7abaa6a8ee4aa01X1-2dW4"
+  },
+  {
+    "name": "深圳南山区前海深港创新中心(西门)1",
+    "longitude": "113.898172",
+    "latitude": "22.517066",
+    "brandId": "ff7abaa6a8ee4aa01X1-2dW4"
+  },
+  {
+    "name": "长沙雨花区都市阳光大厦19楼1906室",
+    "longitude": "112.985836",
+    "latitude": "28.17293",
+    "brandId": "7310166ddd44799e0X192NS-Fg~~"
+  },
+  {
+    "name": "广州天伦物业1",
+    "longitude": "113.327767",
+    "latitude": "23.149005",
+    "brandId": "7172e7d18ca6f4681HZ50t--Fw~~"
+  },
+  {
+    "name": "深圳福田区京地大厦19楼",
+    "longitude": "114.067379",
+    "latitude": "22.532225",
+    "brandId": "7172e7d18ca6f4681HZ50t--Fw~~"
+  },
+  {
+    "name": "上海浦东新区5G未来中心6号楼光大证券9层",
+    "longitude": "121.628529",
+    "latitude": "31.2652",
+    "brandId": "7172e7d18ca6f4681HZ50t--Fw~~"
+  },
+  {
+    "name": "大连甘井子区纳米大厦5楼",
+    "longitude": "121.526098",
+    "latitude": "38.859573",
+    "brandId": "2d208a8834e4a58203d43Q~~"
+  },
+  {
+    "name": "西安雁塔区中软国际西安科技园F1",
+    "longitude": "108.838257",
+    "latitude": "34.20893",
+    "brandId": "2d208a8834e4a58203d43Q~~"
+  },
+  {
+    "name": "马鞍山花山区马鞍山软件园B号楼5楼",
+    "longitude": "118.555703",
+    "latitude": "31.696385",
+    "brandId": "2d208a8834e4a58203d43Q~~"
+  },
+  {
+    "name": "长沙芙蓉区宇成朝阳广场T2-1428",
+    "longitude": "113.010128",
+    "latitude": "28.187118",
+    "brandId": "bae541b521bc9a001nVz2du7EA~~"
+  },
+  {
+    "name": "北京大兴区北京华创1期文昌大道18号",
+    "longitude": "116.507556",
+    "latitude": "39.779401",
+    "brandId": "bae541b521bc9a001nVz2du7EA~~"
+  },
+  {
+    "name": "济南历下区联合财富广场1号楼906",
+    "longitude": "117.126118",
+    "latitude": "36.679799",
+    "brandId": "bae541b521bc9a001nVz2du7EA~~"
+  },
+  {
+    "name": "长沙开福区富兴世界金融中心T3栋14楼1410",
+    "longitude": "112.988366",
+    "latitude": "28.216574",
+    "brandId": "c8303e177439d7231XF62N6-FFs~"
+  },
+  {
+    "name": "长沙岳麓区长沙中电软件园B2-709",
+    "longitude": "112.883009",
+    "latitude": "28.228608",
+    "brandId": "9ebd215aa80cc9fd1HJ-2NS6Fg~~"
+  },
+  {
+    "name": "贵阳观山湖区贵阳国际金融中心一期商务区13号楼1712",
+    "longitude": "106.649066",
+    "latitude": "26.650487",
+    "brandId": "9ebd215aa80cc9fd1HJ-2NS6Fg~~"
+  },
+  {
+    "name": "北京海淀区玉泉慧谷19栋二层",
+    "longitude": "116.256786",
+    "latitude": "39.976175",
+    "brandId": "9ebd215aa80cc9fd1HJ-2NS6Fg~~"
+  },
+  {
+    "name": "长沙长沙县湖南牛数商智信息科技有限公司1栋101",
+    "longitude": "113.081143",
+    "latitude": "28.252819",
+    "brandId": "212a5257eb2d25301nBz39S_Elc~"
+  },
+  {
+    "name": "长沙长沙县三一魔豆仓创新中心101",
+    "longitude": "113.097236",
+    "latitude": "28.240724",
+    "brandId": "212a5257eb2d25301nBz39S_Elc~"
+  },
+  {
+    "name": "长沙湖南恒昌医药集团股份有限公司101",
+    "longitude": "112.935",
+    "latitude": "28.339",
+    "brandId": "212a5257eb2d25301nBz39S_Elc~"
+  },
+  {
+    "name": "长沙岳麓区五矿·麓谷科技产业园A2栋608-1",
+    "longitude": "112.895215",
+    "latitude": "28.22218",
+    "brandId": "cd1b1b0b1c4ed18a1HB53NS1FQ~~"
+  },
+  {
+    "name": "长沙宁乡市湖南省大学科技园产业园综合楼3号楼1-3层",
+    "longitude": "112.658413",
+    "latitude": "28.274024",
+    "brandId": "452d6426533f9d511nF82dW5FFo~"
+  },
+  {
+    "name": "长沙岳麓区五矿·麓谷科技产业园A2栋5层",
+    "longitude": "112.895215",
+    "latitude": "28.22218",
+    "brandId": "452d6426533f9d511nF82dW5FFo~"
+  },
+  {
+    "name": "湘潭岳塘区湘潭万达广场万达广场A座写字楼19楼整层",
+    "longitude": "112.940029",
+    "latitude": "27.827376",
+    "brandId": "873f1432b029fc7b1XJ83tm0"
+  },
+  {
+    "name": "长沙雨花区第六都兴业IEC大楼21楼（帜境墅装）",
+    "longitude": "112.986034",
+    "latitude": "28.151084",
+    "brandId": "873f1432b029fc7b1XJ83tm0"
+  },
+  {
+    "name": "株洲天元区鸿扬家装(云里路)4楼",
+    "longitude": "113.131403",
+    "latitude": "27.819623",
+    "brandId": "873f1432b029fc7b1XJ83tm0"
+  },
+  {
+    "name": "中电金信软件有限公司北京市海淀区西小口路66号东升科技园C区4号楼",
+    "longitude": "116.357106",
+    "latitude": "40.045677",
+    "brandId": "9e1bceeac44be7361nd80tq6E1U~"
+  },
+  {
+    "name": "中电金信（上海）上海市徐汇区云锦路700号西岸智塔西塔楼",
+    "longitude": "121.458078",
+    "latitude": "31.163066",
+    "brandId": "9e1bceeac44be7361nd80tq6E1U~"
+  },
+  {
+    "name": "大连中电金信大厦辽宁省大连市甘井子区礼贤街33号",
+    "longitude": "121.525324",
+    "latitude": "38.858172",
+    "brandId": "9e1bceeac44be7361nd80tq6E1U~"
+  },
+  {
+    "name": "长沙雨花区金典商务中心17楼",
+    "longitude": "113.005305",
+    "latitude": "28.110923",
+    "brandId": "5f73e1f82a7c3a0a1HRy3di7FlU~"
+  },
+  {
+    "name": "昆明禄劝彝族苗族自治县乌东德水电站设计代表处乌东德水电站",
+    "longitude": "102.601272",
+    "latitude": "26.337972",
+    "brandId": "5f73e1f82a7c3a0a1HRy3di7FlU~"
+  },
+  {
+    "name": "杭州西湖区蚂蚁A空间蚂蚁A空间/Z空间",
+    "longitude": "120.104735",
+    "latitude": "30.261121",
+    "brandId": "4685d74590e9bc881nV43N-4EVo~"
+  },
+  {
+    "name": "上海浦东新区蚂蚁集团S空间1",
+    "longitude": "121.516783",
+    "latitude": "31.231963",
+    "brandId": "4685d74590e9bc881nV43N-4EVo~"
+  },
+  {
+    "name": "北京朝阳区环球金融中心北京朝阳区东三环中路1号",
+    "longitude": "116.459044",
+    "latitude": "39.918732",
+    "brandId": "4685d74590e9bc881nV43N-4EVo~"
+  },
+  {
+    "name": "长沙开福区湖南财富中心长沙市芙蓉中路一段468号湖南财富中心财座2906室",
+    "longitude": "112.985426",
+    "latitude": "28.204042",
+    "brandId": "62393dda1ecb789e1nR53tq_EQ~~"
+  },
+  {
+    "name": "大连甘井子区腾飞软件园1期1号楼",
+    "longitude": "121.513478",
+    "latitude": "38.84731",
+    "brandId": "4928cd0a65b8fbc103B43NW1Fw~~"
+  },
+  {
+    "name": "大连甘井子区动漫游产业大厦6",
+    "longitude": "121.526297",
+    "latitude": "38.858409",
+    "brandId": "4928cd0a65b8fbc103B43NW1Fw~~"
+  },
+  {
+    "name": "大连软件园22号楼8楼",
+    "longitude": "121.54456",
+    "latitude": "38.888651",
+    "brandId": "4928cd0a65b8fbc103B43NW1Fw~~"
+  },
+  {
+    "name": "长沙岳麓区湖南百菲特信息技术有限公司502",
+    "longitude": "112.816442",
+    "latitude": "28.237697",
+    "brandId": "8d17ef201671f6040HN_2Nm1"
+  },
+  {
+    "name": "长沙芙蓉区湖南省电信大楼邮政所迎宾路口-1号口-中国电信大楼",
+    "longitude": "112.991211",
+    "latitude": "28.194431",
+    "brandId": "732b41823727a8021ndz0tu-F1A~"
+  },
+  {
+    "name": "长沙开福区CFC富兴世界金融中心T3栋富兴时代T3栋写字楼23A（24楼）",
+    "longitude": "112.988071",
+    "latitude": "28.216413",
+    "brandId": "732b41823727a8021ndz0tu-F1A~"
+  },
+  {
+    "name": "邵阳北塔区中国电信中国电信股份有限公司邵阳分公司北塔区蔡锷路888号",
+    "longitude": "111.455285",
+    "latitude": "27.248776",
+    "brandId": "732b41823727a8021ndz0tu-F1A~"
+  },
+  {
+    "name": "长沙长沙县开源鑫贸大楼1201",
+    "longitude": "113.082774",
+    "latitude": "28.246184",
+    "brandId": "7e34a626d0ee6cab1XR-09S9FlY~"
+  },
+  {
+    "name": "长沙岳麓区湖南万为科技产业园(建设中)7栋4楼402",
+    "longitude": "112.879539",
+    "latitude": "28.23575",
+    "brandId": "7e34a626d0ee6cab1XR-09S9FlY~"
+  },
+  {
+    "name": "长沙长沙县华润·置地广场一期12栋701",
+    "longitude": "113.113061",
+    "latitude": "28.246751",
+    "brandId": "7e34a626d0ee6cab1XR-09S9FlY~"
+  },
+  {
+    "name": "长沙岳麓区尚兴科技一单元",
+    "longitude": "112.884519",
+    "latitude": "28.207717",
+    "brandId": "c2375cb4c9b4e71b0HFz0tW7"
+  },
+  {
+    "name": "北京海淀区启明星辰大厦21号楼",
+    "longitude": "116.288591",
+    "latitude": "40.048771",
+    "brandId": "abb849f82bf302781nV80tq5"
+  },
+  {
+    "name": "贵阳观山湖区德福中心A4栋9层",
+    "longitude": "106.648196",
+    "latitude": "26.612015",
+    "brandId": "abb849f82bf302781nV80tq5"
+  },
+  {
+    "name": "长沙岳麓区麓谷企业广场E6栋",
+    "longitude": "112.885566",
+    "latitude": "28.207712",
+    "brandId": "abb849f82bf302781nV80tq5"
+  },
+  {
+    "name": "长沙岳麓区麓谷科技创新创业园B1栋7-8层",
+    "longitude": "112.855401",
+    "latitude": "28.235359",
+    "brandId": "301be241a6aa91a81nJ-29y1Eg~~"
+  },
+  {
+    "name": "南昌红谷滩区中奥滨江one8号楼601室",
+    "longitude": "115.812121",
+    "latitude": "28.602275",
+    "brandId": "301be241a6aa91a81nJ-29y1Eg~~"
+  },
+  {
+    "name": "惠州惠城区惠州市第一人民医院信息科",
+    "longitude": "114.41024",
+    "latitude": "23.113542",
+    "brandId": "301be241a6aa91a81nJ-29y1Eg~~"
+  },
+  {
+    "name": "长沙开福区马栏山创智园10栋303",
+    "longitude": "113.025037",
+    "latitude": "28.221686",
+    "brandId": "44b7a1a651aa11f533d_2N6-"
+  },
+  {
+    "name": "深圳宝安区F518时尚创意园地址：深圳市宝安区西乡街道劳动社区宝源路1065号F518时尚创意园F3栋409",
+    "longitude": "113.86209",
+    "latitude": "22.566402",
+    "brandId": "44b7a1a651aa11f533d_2N6-"
+  },
+  {
+    "name": "长沙雨花区华融湘江银行(长沙井湾子支行)2#1612",
+    "longitude": "113.020863",
+    "latitude": "28.123207",
+    "brandId": "23cd1883223ccaf60nZ-2t6_Eg~~"
+  },
+  {
+    "name": "长沙岳麓区长沙中电软件园9栋A411",
+    "longitude": "112.881042",
+    "latitude": "28.228963",
+    "brandId": "b64b6630c8ff5ceb1XR82t64FQ~~"
+  },
+  {
+    "name": "长沙岳麓区恒伟星中心T2",
+    "longitude": "112.937629",
+    "latitude": "28.112217",
+    "brandId": "9aad97ce1cf643f71XR53tS5GFM~"
+  },
+  {
+    "name": "郑州管城回族区文化产业大厦11楼",
+    "longitude": "113.770264",
+    "latitude": "34.754151",
+    "brandId": "9aad97ce1cf643f71XR53tS5GFM~"
+  },
+  {
+    "name": "长沙岳麓区麓谷信息港B座",
+    "longitude": "112.891572",
+    "latitude": "28.214052",
+    "brandId": "9aad97ce1cf643f71XR53tS5GFM~"
+  },
+  {
+    "name": "北京朝阳区凯旋中心3座C座2006",
+    "longitude": "116.418057",
+    "latitude": "39.996824",
+    "brandId": "685e4359b5ab87531n1z09u_F1s~"
+  },
+  {
+    "name": "广州生物岛实验室附近",
+    "longitude": "113.50101",
+    "latitude": "23.15857",
+    "brandId": "685e4359b5ab87531n1z09u_F1s~"
+  },
+  {
+    "name": "长沙岳麓区麓谷·新世界南栋4楼4020-5",
+    "longitude": "112.861483",
+    "latitude": "28.202478",
+    "brandId": "685e4359b5ab87531n1z09u_F1s~"
+  },
+  {
+    "name": "长沙雨花区运达中央广场A座46楼",
+    "longitude": "113.043613",
+    "latitude": "28.169985",
+    "brandId": "7154fbb22cd5c09d1nV829m8GFE~"
+  },
+  {
+    "name": "长沙雨花区运达中央广场A座写字楼46楼零食很忙总部",
+    "longitude": "113.042402",
+    "latitude": "28.170138",
+    "brandId": "7154fbb22cd5c09d1nV829m8GFE~"
+  },
+  {
+    "name": "昆明官渡区中明大厦(北京路)零食很忙",
+    "longitude": "102.72046",
+    "latitude": "25.023641",
+    "brandId": "7154fbb22cd5c09d1nV829m8GFE~"
+  },
+  {
+    "name": "东莞天安数码城F区-F5栋3层305-308",
+    "longitude": "113.710399",
+    "latitude": "22.993852",
+    "brandId": "ae052f744d3ff59903dz3ti8Fw~~"
+  },
+  {
+    "name": "长沙雨花区都市阳光大厦湖南省长沙市雨花区侯家塘街道都市阳光大厦2908",
+    "longitude": "112.985836",
+    "latitude": "28.17293",
+    "brandId": "ae052f744d3ff59903dz3ti8Fw~~"
+  },
+  {
+    "name": "长沙世茂环球金融中心1707（百晟科技）",
+    "longitude": "112.984623",
+    "latitude": "28.193389",
+    "brandId": "de76b4028d8815750HZz2dq5"
+  },
+  {
+    "name": "长沙长沙县三一锂能有限公司2楼",
+    "longitude": "113.096449",
+    "latitude": "28.239726",
+    "brandId": "715c98bfb278977003Jy2N-_"
+  },
+  {
+    "name": "长沙长沙县长沙三一工业城三一工业城",
+    "longitude": "113.102297",
+    "latitude": "28.2381",
+    "brandId": "715c98bfb278977003Jy2N-_"
+  },
+  {
+    "name": "湖州吴兴区浙江三一装备有限公司1",
+    "longitude": "120.19809",
+    "latitude": "30.877844",
+    "brandId": "715c98bfb278977003Jy2N-_"
+  },
+  {
+    "name": "上海杨浦区互联宝地T7",
+    "longitude": "121.52874",
+    "latitude": "31.272996",
+    "brandId": "6b46ec00bb8068171X162tm9Fg~~"
+  },
+  {
+    "name": "上海杨浦区宝龙旭辉广场B座",
+    "longitude": "121.542287",
+    "latitude": "31.2779",
+    "brandId": "6b46ec00bb8068171X162tm9Fg~~"
+  },
+  {
+    "name": "上海嘉定区得物兴平路569号",
+    "longitude": "121.291022",
+    "latitude": "31.374307",
+    "brandId": "6b46ec00bb8068171X162tm9Fg~~"
+  },
+  {
+    "name": "深圳南山区同方信息港C栋2楼201",
+    "longitude": "113.949025",
+    "latitude": "22.554847",
+    "brandId": "0ad19d46216df9201nx62t2_FFc~"
+  },
+  {
+    "name": "长沙岳麓区柏宁地王广场-南栋3层知域空间319",
+    "longitude": "112.948319",
+    "latitude": "28.130246",
+    "brandId": "0ad19d46216df9201nx62t2_FFc~"
+  },
+  {
+    "name": "长沙岳麓区长沙军民融合产业园1栋B座809",
+    "longitude": "112.882026",
+    "latitude": "28.232",
+    "brandId": "5e6b7d25b6233d1403B929S_EA~~"
+  },
+  {
+    "name": "长沙岳麓区麓谷企业广场F2栋1211",
+    "longitude": "112.885403",
+    "latitude": "28.207835",
+    "brandId": "5e6b7d25b6233d1403B929S_EA~~"
+  },
+  {
+    "name": "长沙岳麓区中建智慧谷后湖商务中心1号栋（天马医院）",
+    "longitude": "112.944309",
+    "latitude": "28.153539",
+    "brandId": "95aedc8cc2eec3a71X142N-0Ew~~"
+  },
+  {
+    "name": "上海浦东新区汇亚大厦2层",
+    "longitude": "121.504028",
+    "latitude": "31.240795",
+    "brandId": "95aedc8cc2eec3a71X142N-0Ew~~"
+  },
+  {
+    "name": "北京海淀区学院国际大厦",
+    "longitude": "116.353166",
+    "latitude": "39.977304",
+    "brandId": "95aedc8cc2eec3a71X142N-0Ew~~"
+  },
+  {
+    "name": "武汉江夏区光谷金融港B4号楼12楼",
+    "longitude": "114.425232",
+    "latitude": "30.457057",
+    "brandId": "68ca690a39ca12831XV72dy4"
+  },
+  {
+    "name": "南京建邺区龙熙大厦B座709",
+    "longitude": "118.74406",
+    "latitude": "31.997166",
+    "brandId": "68ca690a39ca12831XV72dy4"
+  },
+  {
+    "name": "武汉洪山区东湖高新技术开发区金融港B4栋12楼",
+    "longitude": "114.419831",
+    "latitude": "30.462757",
+    "brandId": "68ca690a39ca12831XV72dy4"
+  },
+  {
+    "name": "广州黄埔区智造谷创新园1101",
+    "longitude": "113.509226",
+    "latitude": "23.147889",
+    "brandId": "2085febf4e0122041Hdy3Ny1"
+  },
+  {
+    "name": "深圳南山区深圳市南山区深圳市南山区人民医院",
+    "longitude": "113.923022",
+    "latitude": "22.530957",
+    "brandId": "2085febf4e0122041Hdy3Ny1"
+  },
+  {
+    "name": "深圳坪山区深圳市萨米国际医疗中心客户现场",
+    "longitude": "114.378096",
+    "latitude": "22.704296",
+    "brandId": "2085febf4e0122041Hdy3Ny1"
+  },
+  {
+    "name": "长沙岳麓区麓谷·新长海中心A2栋11楼",
+    "longitude": "112.890351",
+    "latitude": "28.209528",
+    "brandId": "80fe2af05283bb531XR52du_GVA~"
+  },
+  {
+    "name": "北京海淀区金隅嘉华大厦B座金隅嘉华大厦B座1001",
+    "longitude": "116.309",
+    "latitude": "40.03657",
+    "brandId": "80fe2af05283bb531XR52du_GVA~"
+  },
+  {
+    "name": "广州天河区财富广场东塔财富广场东塔17楼29室",
+    "longitude": "113.329148",
+    "latitude": "23.136101",
+    "brandId": "80fe2af05283bb531XR52du_GVA~"
+  },
+  {
+    "name": "长沙岳麓区长沙中电软件园39号",
+    "longitude": "112.881042",
+    "latitude": "28.228963",
+    "brandId": "0f793e5d93d12dc11HR-0921Ew~~"
+  },
+  {
+    "name": "长沙岳麓区长沙中电软件园",
+    "longitude": "112.8824",
+    "latitude": "28.23094",
+    "brandId": "0f793e5d93d12dc11HR-0921Ew~~"
+  },
+  {
+    "name": "长沙岳麓区中电软件园二期E6栋",
+    "longitude": "112.885048",
+    "latitude": "28.228308",
+    "brandId": "78131218c5afe0e81nd52du_F1I~"
+  },
+  {
+    "name": "杭州余杭区杭州广立微电子股份有限公司联创街188号A1楼",
+    "longitude": "120.025078",
+    "latitude": "30.289222",
+    "brandId": "78131218c5afe0e81nd52du_F1I~"
+  },
+  {
+    "name": "合肥蜀山区置地·创新中心塔楼办1013/1014室",
+    "longitude": "117.133214",
+    "latitude": "31.849235",
+    "brandId": "78131218c5afe0e81nd52du_F1I~"
+  },
+  {
+    "name": "长沙天心区中国长沙人力资源服务产业园C座9楼",
+    "longitude": "112.988043",
+    "latitude": "28.075368",
+    "brandId": "93eec9475288216e1XB609W1Elo~"
+  },
+  {
+    "name": "长沙芙蓉区湘域相遇商务公寓A座湘域相遇A座2015",
+    "longitude": "113.018412",
+    "latitude": "28.196965",
+    "brandId": "93eec9475288216e1XB609W1Elo~"
+  },
+  {
+    "name": "九江濂溪区中国终极科技投资集团3楼",
+    "longitude": "116.004046",
+    "latitude": "29.694208",
+    "brandId": "93eec9475288216e1XB609W1Elo~"
+  },
+  {
+    "name": "长沙岳麓区达美D6区4栋3楼",
+    "longitude": "112.913773",
+    "latitude": "28.202176",
+    "brandId": "0d39057f9a049fbc03Z92Nq6"
+  },
+  {
+    "name": "成都武侯区紫光芯云中心B栋6楼",
+    "longitude": "104.05843",
+    "latitude": "30.53565",
+    "brandId": "0d39057f9a049fbc03Z92Nq6"
+  },
+  {
+    "name": "重庆渝北区重庆互联网学院4A2层",
+    "longitude": "106.465828",
+    "latitude": "29.626208",
+    "brandId": "0d39057f9a049fbc03Z92Nq6"
+  },
+  {
+    "name": "长沙岳麓区金荣·央谷金座B座7楼海典软件",
+    "longitude": "112.89626",
+    "latitude": "28.216789",
+    "brandId": "e25fc4a8d32dbe2f1nB42NS4Eg~~"
+  },
+  {
+    "name": "长沙岳麓区五矿·麓谷科技产业园A2栋7楼",
+    "longitude": "112.89695",
+    "latitude": "28.221395",
+    "brandId": "e25fc4a8d32dbe2f1nB42NS4Eg~~"
+  },
+  {
+    "name": "济南槐荫区绿地中央广场(齐州路)b座1801",
+    "longitude": "116.897792",
+    "latitude": "36.663437",
+    "brandId": "e25fc4a8d32dbe2f1nB42NS4Eg~~"
+  },
+  {
+    "name": "长沙岳麓区华邦互联A7栋3楼",
+    "longitude": "112.884102",
+    "latitude": "28.227676",
+    "brandId": "d10d5dd79d0452131nB52Nm8Fg~~"
+  },
+  {
+    "name": "北京石景山区北京国际汽车贸易服务园区F区北京国际汽车贸易服务园区F区",
+    "longitude": "116.18026",
+    "latitude": "39.916169",
+    "brandId": "d10d5dd79d0452131nB52Nm8Fg~~"
+  },
+  {
+    "name": "长沙岳麓区长沙芯城科技园1栋2103",
+    "longitude": "112.874507",
+    "latitude": "28.228895",
+    "brandId": "9010a69c4f8820991XZz3N28GFM~"
+  },
+  {
+    "name": "长沙开福区润和国际广场开福区浏阳河街道福元西路润和国际广场8栋4楼--博皓数字品牌（维也纳酒店润和店这一栋）",
+    "longitude": "112.992439",
+    "latitude": "28.249367",
+    "brandId": "2e9bb217c89672ba1n1639-7FVs~"
+  },
+  {
+    "name": "长沙望城区金桥国际未来城4栋座4栋",
+    "longitude": "112.839169",
+    "latitude": "28.291912",
+    "brandId": "7bb7326177914dc303Zy0t26EA~~"
+  },
+  {
+    "name": "广州黄埔区广州大汉钢铁供应链有限公司广州大汉钢铁供应链有限公司",
+    "longitude": "113.550328",
+    "latitude": "23.129327",
+    "brandId": "7bb7326177914dc303Zy0t26EA~~"
+  },
+  {
+    "name": "重庆沙坪坝区重铁巨龙钢材市场重庆市沙坪坝区土主镇重铁巨龙钢材市场C区1栋117",
+    "longitude": "106.385215",
+    "latitude": "29.630292",
+    "brandId": "7bb7326177914dc303Zy0t26EA~~"
+  },
+  {
+    "name": "长沙开福区金霞未来科技城500643",
+    "longitude": "112.985496",
+    "latitude": "28.353339",
+    "brandId": "0212dcf77ec79ba01Xd82NS4FFI~"
+  },
+  {
+    "name": "海口美兰区新海航大厦1",
+    "longitude": "110.344511",
+    "latitude": "20.018229",
+    "brandId": "77b49621ee4cae601Xdz2di0EFc~"
+  },
+  {
+    "name": "成都武侯区成都悠方购物中心1",
+    "longitude": "104.057594",
+    "latitude": "30.583051",
+    "brandId": "77b49621ee4cae601Xdz2di0EFc~"
+  },
+  {
+    "name": "赣州章贡区赣州银行(总行营业部)1",
+    "longitude": "114.936622",
+    "latitude": "25.821104",
+    "brandId": "77b49621ee4cae601Xdz2di0EFc~"
+  },
+  {
+    "name": "长沙长沙县长沙优力电驱动系统有限公司15-C栋",
+    "longitude": "113.127994",
+    "latitude": "28.234477",
+    "brandId": "a471bb1e93a8643133V52dm0GA~~"
+  },
+  {
+    "name": "合肥蜀山区合肥新华公学新华公学-西门安徽省合肥市蜀山区天堂寨路",
+    "longitude": "117.108305",
+    "latitude": "31.85239",
+    "brandId": "a471bb1e93a8643133V52dm0GA~~"
+  },
+  {
+    "name": "长沙天心区汇金国际银座1608",
+    "longitude": "112.985",
+    "latitude": "28.163",
+    "brandId": "b8ae5636cf5047f41nxy29i_FFU~"
+  },
+  {
+    "name": "南京雨花台区云密城E－105",
+    "longitude": "118.750727",
+    "latitude": "31.96928",
+    "brandId": "b8ae5636cf5047f41nxy29i_FFU~"
+  },
+  {
+    "name": "北京海淀区海淀绿地中央广场39号院4号楼605",
+    "longitude": "116.192637",
+    "latitude": "40.071529",
+    "brandId": "b4e6716db373e48e1XZ63tS0"
+  },
+  {
+    "name": "长沙岳麓区麓谷信息港A座16001-03-02",
+    "longitude": "112.891266",
+    "latitude": "28.214423",
+    "brandId": "b4e6716db373e48e1XZ63tS0"
+  },
+  {
+    "name": "长沙岳麓区华宽通科技园10楼",
+    "longitude": "112.85659",
+    "latitude": "28.24255",
+    "brandId": "450cd7c2fd92f2f81nB739q4"
+  },
+  {
+    "name": "北京朝阳区国粹苑A座1022",
+    "longitude": "116.508193",
+    "latitude": "39.903082",
+    "brandId": "fc5acab4b382e3be1HZz394~"
+  },
+  {
+    "name": "长沙岳麓区绿地中央广场5栋605",
+    "longitude": "112.951904",
+    "latitude": "28.227266",
+    "brandId": "fc5acab4b382e3be1HZz394~"
+  },
+  {
+    "name": "石家庄长安区乐汇城A座1404室",
+    "longitude": "114.498216",
+    "latitude": "38.044366",
+    "brandId": "fc5acab4b382e3be1HZz394~"
+  },
+  {
+    "name": "长沙开福区天都大厦1栋27009室",
+    "longitude": "113.00634",
+    "latitude": "28.231541",
+    "brandId": "a025493c7cbe110333J-0960FA~~"
+  },
+  {
+    "name": "长沙开福区老百姓大药房集团(总部)808号",
+    "longitude": "112.995277",
+    "latitude": "28.351746",
+    "brandId": "4d33d1ef7e0bac7e1XB43N--FVM~"
+  },
+  {
+    "name": "深圳龙华区1970科技小镇1栋610",
+    "longitude": "114.04677",
+    "latitude": "22.61958",
+    "brandId": "4d33d1ef7e0bac7e1XB43N--FVM~"
+  },
+  {
+    "name": "长沙开福区老百姓大药房连锁股份有限公司3层整层",
+    "longitude": "112.991464",
+    "latitude": "28.256421",
+    "brandId": "4d33d1ef7e0bac7e1XB43N--FVM~"
+  },
+  {
+    "name": "长沙岳麓区科技金融大厦(文轩路)11楼",
+    "longitude": "112.887331",
+    "latitude": "28.209347",
+    "brandId": "531832169162b9fa1HR_2N20FFc~"
+  },
+  {
+    "name": "长沙岳麓区长沙芯城科技园1栋1701",
+    "longitude": "112.875279",
+    "latitude": "28.230876",
+    "brandId": "714a65468cbc31f60XZ62tm0Fw~~"
+  },
+  {
+    "name": "长沙岳麓区和贵网络1701",
+    "longitude": "112.874606",
+    "latitude": "28.228826",
+    "brandId": "714a65468cbc31f60XZ62tm0Fw~~"
+  },
+  {
+    "name": "长沙岳麓区麓谷·新长海中心A2座10楼1006",
+    "longitude": "112.890351",
+    "latitude": "28.209528",
+    "brandId": "f811a202f37ce5f41n1y2t-4GQ~~"
+  },
+  {
+    "name": "长沙开福区博胜集团3楼",
+    "longitude": "113.04673",
+    "latitude": "28.25013",
+    "brandId": "fe406c37e3cd04691Hd_0961Fg~~"
+  },
+  {
+    "name": "呼和浩特和林格尔县中国移动呼和浩特数据中心和林格尔县云展西街",
+    "longitude": "111.823105",
+    "latitude": "40.538125",
+    "brandId": "02c4e781c58bea581nZ_2d-0"
+  },
+  {
+    "name": "北京东城区隆福大厦1",
+    "longitude": "116.413899",
+    "latitude": "39.925447",
+    "brandId": "02c4e781c58bea581nZ_2d-0"
+  },
+  {
+    "name": "乌海海勃湾区乌海三泰酒店(人民路店)1",
+    "longitude": "106.820305",
+    "latitude": "39.67064",
+    "brandId": "02c4e781c58bea581nZ_2d-0"
+  },
+  {
+    "name": "北京海淀区银谷大厦20层",
+    "longitude": "116.33426",
+    "latitude": "39.986918",
+    "brandId": "d83be68b408c46850Hx_2dW4Fg~~"
+  },
+  {
+    "name": "天津滨海新区麒麟软件有限公司3号楼",
+    "longitude": "117.622394",
+    "latitude": "39.063307",
+    "brandId": "d83be68b408c46850Hx_2dW4Fg~~"
+  },
+  {
+    "name": "天津滨海新区天津高新区塘沽海洋科技园信安创业广场3号楼",
+    "longitude": "117.669993",
+    "latitude": "39.054864",
+    "brandId": "d83be68b408c46850Hx_2dW4Fg~~"
+  },
+  {
+    "name": "长沙雨花区蔚都商务楼5楼",
+    "longitude": "112.986335",
+    "latitude": "28.17657",
+    "brandId": "c917eba2ce9096fd0XJ_2Nm0EQ~~"
+  },
+  {
+    "name": "长沙岳麓区楷林国际C座29楼",
+    "longitude": "112.9628",
+    "latitude": "28.23568",
+    "brandId": "252c9f2d11e3c69a1HR63N-4GFA~"
+  },
+  {
+    "name": "长沙芙蓉区顺天国际财富中心16楼",
+    "longitude": "112.986495",
+    "latitude": "28.189619",
+    "brandId": "252c9f2d11e3c69a1HR63N-4GFA~"
+  },
+  {
+    "name": "长沙芙蓉区凯德技术长沙股份有限公司17楼",
+    "longitude": "113.058572",
+    "latitude": "28.217704",
+    "brandId": "7bea7ef29d30bea30n1_3di4FA~~"
+  },
+  {
+    "name": "南京栖霞区南京紫东国际创意园西区E3-329凯德科技",
+    "longitude": "118.90566",
+    "latitude": "32.077999",
+    "brandId": "7bea7ef29d30bea30n1_3di4FA~~"
+  },
+  {
+    "name": "南昌红谷滩区鼎峰中央A座1616室",
+    "longitude": "115.858562",
+    "latitude": "28.689596",
+    "brandId": "7bea7ef29d30bea30n1_3di4FA~~"
+  },
+  {
+    "name": "长沙岳麓区麓谷企业广场c2",
+    "longitude": "112.885566",
+    "latitude": "28.207712",
+    "brandId": "30bec31d6e782a0703V43dy6GQ~~"
+  },
+  {
+    "name": "长沙岳麓区楷林国际C座2010",
+    "longitude": "112.962405",
+    "latitude": "28.235701",
+    "brandId": "d21cb29f5067518a1XZ839q-FFU~"
+  },
+  {
+    "name": "长沙天心区长沙总部基地8c栋",
+    "longitude": "113.021646",
+    "latitude": "28.06822",
+    "brandId": "c4200977b8a63a3d1Hd82Ny5GQ~~"
+  },
+  {
+    "name": "长沙天心区天一康园北区b3栋",
+    "longitude": "112.995088",
+    "latitude": "28.123882",
+    "brandId": "c4200977b8a63a3d1Hd82Ny5GQ~~"
+  },
+  {
+    "name": "长沙雨花区中建广场写字楼B栋6楼",
+    "longitude": "113.007233",
+    "latitude": "28.1194",
+    "brandId": "c4200977b8a63a3d1Hd82Ny5GQ~~"
+  },
+  {
+    "name": "长沙天心区湖南中图通无人机技术有限责任公司长沙总部基地10-D栋三单元",
+    "longitude": "113.022198",
+    "latitude": "28.067644",
+    "brandId": "8e172efdd9608dee1Xd63N29GVM~"
+  },
+  {
+    "name": "长沙天心区英维创新大厦909",
+    "longitude": "112.986023",
+    "latitude": "28.147383",
+    "brandId": "44fb51838fa1d0401HR73dq-EFI~"
+  },
+  {
+    "name": "深圳龙华区U创谷-龙华区生态创客写字楼301",
+    "longitude": "114.041078",
+    "latitude": "22.637013",
+    "brandId": "44fb51838fa1d0401HR73dq-EFI~"
+  },
+  {
+    "name": "济南历城区中科颐高人工智能港5层",
+    "longitude": "117.05547",
+    "latitude": "36.697884",
+    "brandId": "44fb51838fa1d0401HR73dq-EFI~"
+  },
+  {
+    "name": "长沙芙蓉区中国电信(湖南省分公司)1",
+    "longitude": "112.99091",
+    "latitude": "28.1944",
+    "brandId": "3d9de5d31457c36f0HJ739q7"
+  },
+  {
+    "name": "广州金山大厦(五山路)南塔/18层/1805",
+    "longitude": "113.346593",
+    "latitude": "23.143937",
+    "brandId": "3d9de5d31457c36f0HJ739q7"
+  },
+  {
+    "name": "南京玄武区江苏省电信局电信大厦玄武区中央路260号",
+    "longitude": "118.785083",
+    "latitude": "32.079443",
+    "brandId": "3d9de5d31457c36f0HJ739q7"
+  },
+  {
+    "name": "长沙开福区德雅路f3",
+    "longitude": "113.00846",
+    "latitude": "28.225284",
+    "brandId": "e2c9e4b88ac3bd651XFy2tW1FVs~"
+  },
+  {
+    "name": "长沙绿地之窗2",
+    "longitude": "113.056433",
+    "latitude": "28.137547",
+    "brandId": "e2c9e4b88ac3bd651XFy2tW1FVs~"
+  },
+  {
+    "name": "长沙雨花区长沙总部基地1",
+    "longitude": "113.021646",
+    "latitude": "28.06822",
+    "brandId": "e2c9e4b88ac3bd651XFy2tW1FVs~"
+  },
+  {
+    "name": "长沙岳麓区中联科技园",
+    "longitude": "112.949903",
+    "latitude": "28.220756",
+    "brandId": "1b78142a9bb706e71nxy39W9EQ~~"
+  },
+  {
+    "name": "长沙岳麓区中联重科麓谷工业园",
+    "longitude": "112.885709",
+    "latitude": "28.214301",
+    "brandId": "1b78142a9bb706e71nxy39W9EQ~~"
+  },
+  {
+    "name": "长沙岳麓区长沙中电软件园10栋",
+    "longitude": "112.883009",
+    "latitude": "28.228608",
+    "brandId": "1b78142a9bb706e71nxy39W9EQ~~"
+  },
+  {
+    "name": "长沙芙蓉区华智生物分子育种平台B座5楼",
+    "longitude": "113.096517",
+    "latitude": "28.192496",
+    "brandId": "9e1b2ce6d44454ac1ndy2d-4FFs~"
+  },
+  {
+    "name": "丽水莲都区绿谷信息产业园新嬉里大厦",
+    "longitude": "119.905724",
+    "latitude": "28.465091",
+    "brandId": "9e1b2ce6d44454ac1ndy2d-4FFs~"
+  },
+  {
+    "name": "成都邛崃市羊安工业园区邛崃",
+    "longitude": "103.721788",
+    "latitude": "30.39758",
+    "brandId": "9e1b2ce6d44454ac1ndy2d-4FFs~"
+  },
+  {
+    "name": "长沙岳麓区王府井FAMILY PARK购物中心写字楼19楼",
+    "longitude": "112.933918",
+    "latitude": "28.218936",
+    "brandId": "784851a50e27a3451XB53Ny1Eg~~"
+  },
+  {
+    "name": "成都锦江区茂业天地A座丁丁文化",
+    "longitude": "104.069996",
+    "latitude": "30.657082",
+    "brandId": "784851a50e27a3451XB53Ny1Eg~~"
+  },
+  {
+    "name": "北京朝阳区竞园艺术中心B",
+    "longitude": "116.510729",
+    "latitude": "39.893514",
+    "brandId": "784851a50e27a3451XB53Ny1Eg~~"
+  },
+  {
+    "name": "长沙天心区中欣国际",
+    "longitude": "112.991775",
+    "latitude": "28.124216",
+    "brandId": "028bc41f5e1db25203d83t64Ew~~"
+  },
+  {
+    "name": "杭州拱墅区中国(杭州)智慧信息产业园A座6楼",
+    "longitude": "120.120308",
+    "latitude": "30.336168",
+    "brandId": "79b884b349c79c9f1nx62ty-E1Y~"
+  },
+  {
+    "name": "杭州拱墅区中国(杭州)智慧信息产业园A座6-7楼",
+    "longitude": "120.119271",
+    "latitude": "30.335825",
+    "brandId": "79b884b349c79c9f1nx62ty-E1Y~"
+  },
+  {
+    "name": "长沙岳麓区麓谷·新长海中心A1栋8层808",
+    "longitude": "112.890351",
+    "latitude": "28.209528",
+    "brandId": "79b884b349c79c9f1nx62ty-E1Y~"
+  },
+  {
+    "name": "北京朝阳区北京威动科技创远路36号院15号楼",
+    "longitude": "116.467728",
+    "latitude": "40.01889",
+    "brandId": "7df6d8601522bdb03ndz2N4~"
+  },
+  {
+    "name": "北京朝阳区朝来高科技产业园创远路36号15号楼",
+    "longitude": "116.470984",
+    "latitude": "40.019388",
+    "brandId": "7df6d8601522bdb03ndz2N4~"
+  },
+  {
+    "name": "长沙芙蓉区凯通中心湖南省长沙市芙蓉区车站中路159号凯通公馆30楼c01室",
+    "longitude": "113.010104",
+    "latitude": "28.189609",
+    "brandId": "7df6d8601522bdb03ndz2N4~"
+  },
+  {
+    "name": "长沙开福区马栏山创智园8栋3楼5号",
+    "longitude": "113.025037",
+    "latitude": "28.221686",
+    "brandId": "17f5386f2907ae6003Rz0t-_EA~~"
+  },
+  {
+    "name": "深圳南山区深圳软件园1期602",
+    "longitude": "113.940255",
+    "latitude": "22.545195",
+    "brandId": "17f5386f2907ae6003Rz0t-_EA~~"
+  },
+  {
+    "name": "深圳南山区汉京金融中心22",
+    "longitude": "113.936557",
+    "latitude": "22.540477",
+    "brandId": "17f5386f2907ae6003Rz0t-_EA~~"
+  },
+  {
+    "name": "长沙芙蓉区隆平高科技园A座208",
+    "longitude": "113.068657",
+    "latitude": "28.205103",
+    "brandId": "d9ddb8fce7afcc081HR639-6ElE~"
+  },
+  {
+    "name": "益阳赫山区滨江花园5栋1301",
+    "longitude": "112.361078",
+    "latitude": "28.587542",
+    "brandId": "d9ddb8fce7afcc081HR639-6ElE~"
+  },
+  {
+    "name": "长沙聚恒科技园23楼",
+    "longitude": "113.02978",
+    "latitude": "28.230295",
+    "brandId": "13adedd70b8cc7af1nd93dS9F1c~"
+  },
+  {
+    "name": "长沙开福区聚恒集团总部基地匍园路20号",
+    "longitude": "113.030433",
+    "latitude": "28.230535",
+    "brandId": "13adedd70b8cc7af1nd93dS9F1c~"
+  },
+  {
+    "name": "长沙开福区聚恒文化2栋2楼",
+    "longitude": "113.027589",
+    "latitude": "28.222046",
+    "brandId": "13adedd70b8cc7af1nd93dS9F1c~"
+  },
+  {
+    "name": "长沙岳麓区长沙中电软件园二期F3",
+    "longitude": "112.885048",
+    "latitude": "28.228308",
+    "brandId": "46d2a36c271a00cc0nx70ty8FQ~~"
+  },
+  {
+    "name": "武汉洪山区五环天地12楼1207",
+    "longitude": "114.37987",
+    "latitude": "30.506636",
+    "brandId": "46d2a36c271a00cc0nx70ty8FQ~~"
+  },
+  {
+    "name": "长沙天心区新时空大厦8楼",
+    "longitude": "112.985074",
+    "latitude": "28.160611",
+    "brandId": "46d2a36c271a00cc0nx70ty8FQ~~"
+  },
+  {
+    "name": "上海浦东新区平安财富大厦Pennsylvania单元",
+    "longitude": "121.536958",
+    "latitude": "31.225123",
+    "brandId": "24e43d4c93a5e04d1HV62961"
+  },
+  {
+    "name": "北京朝阳区方恒国际中心A座1706",
+    "longitude": "116.480826",
+    "latitude": "39.98951",
+    "brandId": "24e43d4c93a5e04d1HV62961"
+  },
+  {
+    "name": "长沙岳麓区麓谷科技创新创业园A1栋19楼1905房",
+    "longitude": "112.855401",
+    "latitude": "28.235359",
+    "brandId": "24e43d4c93a5e04d1HV62961"
+  },
+  {
+    "name": "长沙雨花区湘地大厦1303",
+    "longitude": "113.032741",
+    "latitude": "28.095392",
+    "brandId": "868fefffd44f17ee1XB53tq-ElY~"
+  },
+  {
+    "name": "长沙岳麓区麓谷企业广场F3栋10楼",
+    "longitude": "112.88315",
+    "latitude": "28.208544",
+    "brandId": "9762808904ede0a43nB429q1FA~~"
+  },
+  {
+    "name": "长沙雨花区雨花亭附近",
+    "longitude": "112.993917",
+    "latitude": "28.156203",
+    "brandId": "9762808904ede0a43nB429q1FA~~"
+  },
+  {
+    "name": "南京栖霞区诺唯赞生物欢乐谷东厂",
+    "longitude": "119.0159",
+    "latitude": "32.163957",
+    "brandId": "9762808904ede0a43nB429q1FA~~"
+  },
+  {
+    "name": "长沙芙蓉区湖南楚济堂医药连锁有限公司综合研发大楼3楼",
+    "longitude": "113.068814",
+    "latitude": "28.207179",
+    "brandId": "3698c0d3c52c6b1c1XR72tW0GVo~"
+  },
+  {
+    "name": "黄石黄石港区国控黄石公司物流中心黄石市黄石大道北67号",
+    "longitude": "115.062962",
+    "latitude": "30.258185",
+    "brandId": "3698c0d3c52c6b1c1XR72tW0GVo~"
+  },
+  {
+    "name": "长沙开福区楚济堂大药房(东风路店)东风路340号",
+    "longitude": "112.992883",
+    "latitude": "28.221138",
+    "brandId": "3698c0d3c52c6b1c1XR72tW0GVo~"
+  },
+  {
+    "name": "长沙芙蓉区建安新商汇1602",
+    "longitude": "113.031462",
+    "latitude": "28.196946",
+    "brandId": "954615ee01ab75a71nRz09m1ElE~"
+  },
+  {
+    "name": "长沙汇景发展环球中心B座2203",
+    "longitude": "112.969396",
+    "latitude": "28.174121",
+    "brandId": "585e399c87e97c311nV_39m8F1U~"
+  },
+  {
+    "name": "上海静安区久游网上海市静安区彭浦镇街道广中西路777弄2号A幢",
+    "longitude": "121.439257",
+    "latitude": "31.277168",
+    "brandId": "585e399c87e97c311nV_39m8F1U~"
+  },
+  {
+    "name": "上海浦东新区畅星大厦畅星大厦二期5楼",
+    "longitude": "121.583397",
+    "latitude": "31.197289",
+    "brandId": "e06fdb50916f8ae71nJ539W9ElQ~"
+  },
+  {
+    "name": "苏州太仓市太仓宝鑫仓储有限公司江苏省苏州市太仓市银港路69号",
+    "longitude": "121.19348",
+    "latitude": "31.61496",
+    "brandId": "e06fdb50916f8ae71nJ539W9ElQ~"
+  },
+  {
+    "name": "长沙芙蓉区创富港创客空间(通程中心)8楼创富港联合办公B53",
+    "longitude": "112.997744",
+    "latitude": "28.189115",
+    "brandId": "e06fdb50916f8ae71nJ539W9ElQ~"
+  },
+  {
+    "name": "衢州柯城区衢州花园258创新创业园1",
+    "longitude": "118.854901",
+    "latitude": "28.976995",
+    "brandId": "49a6b25bd7b6b7d11nJ92A~~"
+  },
+  {
+    "name": "北京海淀区国海广场A座17层",
+    "longitude": "116.313806",
+    "latitude": "39.908504",
+    "brandId": "49a6b25bd7b6b7d11nJ92A~~"
+  },
+  {
+    "name": "上海黄浦区上海资信有限公司(北京东路)1",
+    "longitude": "121.484659",
+    "latitude": "31.240607",
+    "brandId": "49a6b25bd7b6b7d11nJ92A~~"
+  },
+  {
+    "name": "长沙岳麓区亚光科技园研发中心楼",
+    "longitude": "112.844137",
+    "latitude": "28.237843",
+    "brandId": "c1e98436728202d00Hx42Nq4Fw~~"
+  },
+  {
+    "name": "珠海太阳鸟游艇金湾区珠海大道8022号",
+    "longitude": "113.25451",
+    "latitude": "22.076212",
+    "brandId": "c1e98436728202d00Hx42Nq4Fw~~"
+  },
+  {
+    "name": "长沙天心区恒力卡瑞尔20楼2003",
+    "longitude": "112.97996",
+    "latitude": "28.175514",
+    "brandId": "7b138ee51d3948e91XVz0t-4FVs~"
+  },
+  {
+    "name": "长沙岳麓区喜地时代广场1908",
+    "longitude": "112.914263",
+    "latitude": "28.211176",
+    "brandId": "88d8cad642b2fa951Xd80t-8Fw~~"
+  },
+  {
+    "name": "长沙岳麓区长沙芯城科技园岳麓区芯城科技园3栋1001",
+    "longitude": "112.875279",
+    "latitude": "28.230876",
+    "brandId": "8f96da4848cb453a1nd-2tm9Ew~~"
+  },
+  {
+    "name": "长沙岳麓区长沙芯城·科技园3号楼10楼",
+    "longitude": "112.874971",
+    "latitude": "28.229413",
+    "brandId": "8f96da4848cb453a1nd-2tm9Ew~~"
+  },
+  {
+    "name": "长沙雨花区兴旺双铁城27楼",
+    "longitude": "113.019664",
+    "latitude": "28.153909",
+    "brandId": "8f96da4848cb453a1nd-2tm9Ew~~"
+  },
+  {
+    "name": "长沙开福区君泰大厦15楼1502室",
+    "longitude": "113.014257",
+    "latitude": "28.234111",
+    "brandId": "bc62cce20762dfbc1Hx_3ty4GQ~~"
+  },
+  {
+    "name": "长沙岳麓区麓谷·新长海中心B2栋712",
+    "longitude": "112.890351",
+    "latitude": "28.209528",
+    "brandId": "cff1ba6af5f73cee03R80t21FQ~~"
+  },
+  {
+    "name": "长沙芙蓉区长盛上东区2601",
+    "longitude": "113.008542",
+    "latitude": "28.21261",
+    "brandId": "e941643941c9edf41nx529y1Flc~"
+  },
+  {
+    "name": "北京东城区皇城国际中心A座A18",
+    "longitude": "116.408803",
+    "latitude": "39.955744",
+    "brandId": "7d2f0ac5d1ab197533F629u7"
+  },
+  {
+    "name": "长沙岳麓区长沙芯城科技园4栋",
+    "longitude": "112.875279",
+    "latitude": "28.230876",
+    "brandId": "7d2f0ac5d1ab197533F629u7"
+  },
+  {
+    "name": "黄冈麻城市中和农信(麻城分公司)中和农信麻城分公司",
+    "longitude": "115.011848",
+    "latitude": "31.187523",
+    "brandId": "7d2f0ac5d1ab197533F629u7"
+  },
+  {
+    "name": "长沙雨花区长房天翼未来城1栋201联盛科技",
+    "longitude": "112.999918",
+    "latitude": "28.171287",
+    "brandId": "499d443bc1b1160e03R83dS0"
+  },
+  {
+    "name": "长沙岳麓区湖南盛鼎科技发展有限责任公司A8栋",
+    "longitude": "112.884112",
+    "latitude": "28.227328",
+    "brandId": "43ddc9af3bfcc4ee1nJ429y9GQ~~"
+  },
+  {
+    "name": "湘潭岳塘区湘潭市政府大楼1",
+    "longitude": "112.943952",
+    "latitude": "27.829856",
+    "brandId": "43ddc9af3bfcc4ee1nJ429y9GQ~~"
+  },
+  {
+    "name": "长沙长沙芯城科技园2期16栋6A层08",
+    "longitude": "112.874904",
+    "latitude": "28.232849",
+    "brandId": "90f40137d95a489e33dy2dm1"
+  },
+  {
+    "name": "长沙岳麓区湖南创智艾泰克科技有限公司2楼",
+    "longitude": "112.903318",
+    "latitude": "28.219835",
+    "brandId": "385ad006dd933f170nB62Nq8"
+  },
+  {
+    "name": "长沙天心区财信大厦天心区",
+    "longitude": "112.984588",
+    "latitude": "28.182263",
+    "brandId": "385ad006dd933f170nB62Nq8"
+  },
+  {
+    "name": "广州天河区中信广场腾讯众创空间",
+    "longitude": "113.324786",
+    "latitude": "23.142159",
+    "brandId": "385ad006dd933f170nB62Nq8"
+  },
+  {
+    "name": "长沙创谷·长沙天心文化(广告)产业园B1栋6层614",
+    "longitude": "112.973773",
+    "latitude": "28.094518",
+    "brandId": "3b4a2135a830923d1HZ73dy0Ew~~"
+  },
+  {
+    "name": "长沙天心区和庄A1栋",
+    "longitude": "112.985264",
+    "latitude": "28.128839",
+    "brandId": "3b4a2135a830923d1HZ73dy0Ew~~"
+  },
+  {
+    "name": "长沙开福区万达·总部国际C12102",
+    "longitude": "112.971415",
+    "latitude": "28.201246",
+    "brandId": "2a05149d1d0dbf5c1Xx_09q6GVE~"
+  },
+  {
+    "name": "长沙岳麓区五矿·麓谷科技产业园2期A2栋807",
+    "longitude": "112.896568",
+    "latitude": "28.221348",
+    "brandId": "ccfb31bf94a096701nx83di6EQ~~"
+  },
+  {
+    "name": "长沙芙蓉区荷花园中国电信大楼电信综合楼6楼（天翼饭堂楼上）",
+    "longitude": "113.019732",
+    "latitude": "28.192201",
+    "brandId": "62a898766fdef7920HN42tq1GA~~"
+  },
+  {
+    "name": "长沙芙蓉区荷花园中国电信大楼天翼饭堂楼上6楼",
+    "longitude": "113.02023",
+    "latitude": "28.192017",
+    "brandId": "62a898766fdef7920HN42tq1GA~~"
+  },
+  {
+    "name": "长春绿园区中国一汽科技创新基地致公楼",
+    "longitude": "125.140506",
+    "latitude": "43.839783",
+    "brandId": "e7bd0793e04d7bc51n1-2Nm0E1I~"
+  },
+  {
+    "name": "北京昌平区天通科技园810",
+    "longitude": "116.417804",
+    "latitude": "40.069566",
+    "brandId": "e7bd0793e04d7bc51n1-2Nm0E1I~"
+  },
+  {
+    "name": "长沙天心区湖南银行总部大厦10",
+    "longitude": "112.969328",
+    "latitude": "28.172942",
+    "brandId": "e7bd0793e04d7bc51n1-2Nm0E1I~"
+  },
+  {
+    "name": "长沙雨花区长沙国际企业城10栋1单元501",
+    "longitude": "113.023637",
+    "latitude": "28.079482",
+    "brandId": "f2e76ec199d477751XN83N-5EVc~"
+  },
+  {
+    "name": "长沙天心区创谷·长沙天心文化(广告)产业园1#栋10楼",
+    "longitude": "112.973773",
+    "latitude": "28.094518",
+    "brandId": "6bb3df921ae65db11nN82Nu-FQ~~"
+  },
+  {
+    "name": "北京西城区中国大唐集团公司A栋",
+    "longitude": "116.362276",
+    "latitude": "39.914554",
+    "brandId": "6bb3df921ae65db11nN82Nu-FQ~~"
+  },
+  {
+    "name": "北京西城区五栋大楼北京市西城区展览馆街道车公庄大街9号院五栋大楼A座3单元3层",
+    "longitude": "116.348002",
+    "latitude": "39.933341",
+    "brandId": "6bb3df921ae65db11nN82Nu-FQ~~"
+  },
+  {
+    "name": "长沙雨花区兴威名座大厦北栋1101",
+    "longitude": "112.995338",
+    "latitude": "28.172228",
+    "brandId": "0ca1a4b15e5f11df1nd82N-_FVM~"
+  },
+  {
+    "name": "长沙芙蓉区琴海科技园17楼",
+    "longitude": "113.063739",
+    "latitude": "28.217285",
+    "brandId": "303a47e81dda08a01XB92t-8FVA~"
+  },
+  {
+    "name": "贵阳云岩区贵州医科大学附属医院无",
+    "longitude": "106.713459",
+    "latitude": "26.594286",
+    "brandId": "303a47e81dda08a01XB92t-8FVA~"
+  },
+  {
+    "name": "长沙开福区芒果马栏山广场4楼",
+    "longitude": "113.029808",
+    "latitude": "28.222794",
+    "brandId": "4d9bf2c68e4bcec103d50t21FQ~~"
+  },
+  {
+    "name": "长沙开福区芒果传媒有限公司芒果传媒",
+    "longitude": "113.04411",
+    "latitude": "28.235182",
+    "brandId": "4d9bf2c68e4bcec103d50t21FQ~~"
+  },
+  {
+    "name": "长沙岳麓区长沙芯城科技园6栋8楼",
+    "longitude": "112.876553",
+    "latitude": "28.229377",
+    "brandId": "3cba0182a543b3411nR93d67EQ~~"
+  },
+  {
+    "name": "北京丰台区和义文化产业园D座102",
+    "longitude": "116.399516",
+    "latitude": "39.814737",
+    "brandId": "3cba0182a543b3411nR93d67EQ~~"
+  },
+  {
+    "name": "长沙岳麓区高至旺龙产业园西门",
+    "longitude": "112.878367",
+    "latitude": "28.234108",
+    "brandId": "3cba0182a543b3411nR93d67EQ~~"
+  },
+  {
+    "name": "长沙岳麓区洋湖公馆2期莫林酒店（洋湖）2005",
+    "longitude": "112.940797",
+    "latitude": "28.128482",
+    "brandId": "125ee3177dbc6bf933Z_29q7GQ~~"
+  },
+  {
+    "name": "长沙岳麓区梅溪湖创新中心2001-04",
+    "longitude": "112.891435",
+    "latitude": "28.192677",
+    "brandId": "a76ce38bd66923a91XZ729S7"
+  },
+  {
+    "name": "深圳南山区深圳湾科技生态园11栋A座2606",
+    "longitude": "113.950564",
+    "latitude": "22.530079",
+    "brandId": "a76ce38bd66923a91XZ729S7"
+  },
+  {
+    "name": "长沙雨花区融创前海中心N",
+    "longitude": "113.020067",
+    "latitude": "28.137719",
+    "brandId": "a76ce38bd66923a91XZ729S7"
+  },
+  {
+    "name": "长沙友阿总部办公大楼901房",
+    "longitude": "113.007717",
+    "latitude": "28.187264",
+    "brandId": "74b47edad9cf0ad433R839W0GQ~~"
+  },
+  {
+    "name": "深圳宝安区U8智造产业园U4栋208",
+    "longitude": "113.848807",
+    "latitude": "22.604292",
+    "brandId": "74b47edad9cf0ad433R839W0GQ~~"
+  },
+  {
+    "name": "福州台江区融信双杭城MINI墅1栋3123",
+    "longitude": "119.303106",
+    "latitude": "26.055658",
+    "brandId": "74b47edad9cf0ad433R839W0GQ~~"
+  },
+  {
+    "name": "长沙开福区云目未来科技(湖南)有限公司马栏山创智园2期7栋1楼",
+    "longitude": "113.024128",
+    "latitude": "28.221511",
+    "brandId": "c6b2cfcfd56f8da80XJ_3N25EA~~"
+  },
+  {
+    "name": "岳阳岳阳楼区岳阳市委机关社区金鹗中路184号",
+    "longitude": "113.122366",
+    "latitude": "29.358912",
+    "brandId": "c6b2cfcfd56f8da80XJ_3N25EA~~"
+  },
+  {
+    "name": "长沙长沙县融媒体中心1",
+    "longitude": "113.078303",
+    "latitude": "28.25377",
+    "brandId": "c6b2cfcfd56f8da80XJ_3N25EA~~"
+  },
+  {
+    "name": "上海静安区市北·壹中心·",
+    "longitude": "121.451098",
+    "latitude": "31.299551",
+    "brandId": "c06cd99b7c4a38871Hdy3dW1"
+  },
+  {
+    "name": "长沙岳麓区中电软件园二期•",
+    "longitude": "112.885048",
+    "latitude": "28.228308",
+    "brandId": "c06cd99b7c4a38871Hdy3dW1"
+  },
+  {
+    "name": "长沙雨花区长迅法律服务中心·",
+    "longitude": "113.037465",
+    "latitude": "28.13864",
+    "brandId": "c06cd99b7c4a38871Hdy3dW1"
+  },
+  {
+    "name": "长沙天心区长沙天心软件产业园B栋9楼",
+    "longitude": "112.984401",
+    "latitude": "28.057245",
+    "brandId": "9a0dbb90a30cf2611nR93tq4Fw~~"
+  },
+  {
+    "name": "长沙雨花区长沙总部基地602",
+    "longitude": "113.021631",
+    "latitude": "28.068229",
+    "brandId": "9a0dbb90a30cf2611nR93tq4Fw~~"
+  },
+  {
+    "name": "长沙雨花区华翼府B座1106",
+    "longitude": "112.995514",
+    "latitude": "28.143547",
+    "brandId": "9b51e7512485310e03R_3di5Ew~~"
+  },
+  {
+    "name": "长沙天心区湖南恒电信息科技有限公司",
+    "longitude": "112.992857",
+    "latitude": "28.128223",
+    "brandId": "9b51e7512485310e03R_3di5Ew~~"
+  },
+  {
+    "name": "长沙天心区汇景发展环球中心B塔7层727号",
+    "longitude": "112.969396",
+    "latitude": "28.174121",
+    "brandId": "f2ba2913528204063nZy3N64Fw~~"
+  },
+  {
+    "name": "长沙雨花区城市快线1103",
+    "longitude": "112.985516",
+    "latitude": "28.153005",
+    "brandId": "f2ba2913528204063nZy3N64Fw~~"
+  },
+  {
+    "name": "长沙芙蓉区世茂环球金融中心1705",
+    "longitude": "112.984623",
+    "latitude": "28.193389",
+    "brandId": "1c8a7dfe24c1b44b1HR-3Nu0FVI~"
+  },
+  {
+    "name": "长沙岳麓区岳麓区中电软件园7栋5楼",
+    "longitude": "112.93142",
+    "latitude": "28.235193",
+    "brandId": "9ae750b975cc92341nF42dW6GQ~~"
+  },
+  {
+    "name": "上海浦东新区前滩世贸中心3期A栋19楼",
+    "longitude": "121.481477",
+    "latitude": "31.159243",
+    "brandId": "9ae750b975cc92341nF42dW6GQ~~"
+  },
+  {
+    "name": "广州天河区越秀金融大厦5F",
+    "longitude": "113.326316",
+    "latitude": "23.123981",
+    "brandId": "9ae750b975cc92341nF42dW6GQ~~"
+  },
+  {
+    "name": "长沙岳麓区长沙芯城科技园2期12栋4层",
+    "longitude": "112.874904",
+    "latitude": "28.232849",
+    "brandId": "11967fb8ddde3fef1nJ-3N-0E1o~"
+  },
+  {
+    "name": "北京朝阳区CSDN中国开发者网络恒通商务园B8b座2层",
+    "longitude": "116.491648",
+    "latitude": "39.978438",
+    "brandId": "11967fb8ddde3fef1nJ-3N-0E1o~"
+  },
+  {
+    "name": "上海浦东新区矽岸国际1号楼708",
+    "longitude": "121.626545",
+    "latitude": "31.2028",
+    "brandId": "11967fb8ddde3fef1nJ-3N-0E1o~"
+  },
+  {
+    "name": "长沙岳麓区麓谷企业广场C3栋709",
+    "longitude": "112.886341",
+    "latitude": "28.20768",
+    "brandId": "ce3f467f100aa36f03d83d61"
+  },
+  {
+    "name": "长沙岳麓区麓谷·新长海中心A1栋909",
+    "longitude": "112.890351",
+    "latitude": "28.209528",
+    "brandId": "ae0c0cefa4ac6cd71nx73d-_Fg~~"
+  },
+  {
+    "name": "深圳南山区信利康大厦25楼",
+    "longitude": "113.888522",
+    "latitude": "22.501105",
+    "brandId": "4580d7728e1741b31nZ929-5FFU~"
+  },
+  {
+    "name": "长沙开福区聚恒集团总部基地聚恒科技园1栋19楼获客文化",
+    "longitude": "113.030433",
+    "latitude": "28.230535",
+    "brandId": "4580d7728e1741b31nZ929-5FFU~"
+  },
+  {
+    "name": "长沙开福区聚恒科技园聚恒科技园1栋19楼（获客文化）",
+    "longitude": "113.02978",
+    "latitude": "28.230295",
+    "brandId": "4580d7728e1741b31nZ929-5FFU~"
+  },
+  {
+    "name": "北京朝阳区金长安大厦A座",
+    "longitude": "116.491411",
+    "latitude": "39.898533",
+    "brandId": "c3aeb338033930c703dy3dm_"
+  },
+  {
+    "name": "西安雁塔区洛克大厦27层",
+    "longitude": "108.890299",
+    "latitude": "34.215206",
+    "brandId": "c3aeb338033930c703dy3dm_"
+  },
+  {
+    "name": "武汉武昌区平安金融科技大厦公正路216号26F",
+    "longitude": "114.337195",
+    "latitude": "30.555044",
+    "brandId": "c3aeb338033930c703dy3dm_"
+  },
+  {
+    "name": "长沙芙蓉区凯旋国际B栋28楼整层",
+    "longitude": "113.010321",
+    "latitude": "28.192424",
+    "brandId": "cdd1559f059b5e281XF92tW1EFI~"
+  },
+  {
+    "name": "长沙铭城绿谷智慧产业园18栋19栋202",
+    "longitude": "113.120107",
+    "latitude": "28.20008",
+    "brandId": "cdd1559f059b5e281XF92tW1EFI~"
+  },
+  {
+    "name": "长沙岳麓区湖南擎识科技有限公司302号（整栋）",
+    "longitude": "112.88359375",
+    "latitude": "28.22964653862847",
+    "brandId": "2569545b9e563e1a1XN-0tq0Fls~"
+  },
+  {
+    "name": "北京西城区基业大厦(南线阁街)3层301",
+    "longitude": "116.353592",
+    "latitude": "39.888576",
+    "brandId": "32398c73c2806ef21XZ-29i7Eg~~"
+  },
+  {
+    "name": "长沙岳麓区麓谷·新长海中心A1栋206-3",
+    "longitude": "112.890351",
+    "latitude": "28.209528",
+    "brandId": "32398c73c2806ef21XZ-29i7Eg~~"
+  },
+  {
+    "name": "银川金凤区银川金凤万达广场公寓B座1421",
+    "longitude": "106.249169",
+    "latitude": "38.486373",
+    "brandId": "32398c73c2806ef21XZ-29i7Eg~~"
+  },
+  {
+    "name": "长沙岳麓区湖南省医疗器械大厦A1座3楼",
+    "longitude": "112.867175",
+    "latitude": "28.214057",
+    "brandId": "ae3c5b6f88f25ac00XJ-3N69"
+  },
+  {
+    "name": "长沙岳麓区天祥水晶湾1栋2单元803室",
+    "longitude": "112.89251",
+    "latitude": "28.189505",
+    "brandId": "ae3c5b6f88f25ac00XJ-3N69"
+  },
+  {
+    "name": "长沙开福区润和国际广场5栋",
+    "longitude": "112.992439",
+    "latitude": "28.249367",
+    "brandId": "c7b22c37580e7ed31nR_3tm9"
+  },
+  {
+    "name": "长沙岳麓区麓谷信息港A座16001-03-02",
+    "longitude": "112.891266",
+    "latitude": "28.214423",
+    "brandId": "511427adff058de61HRy3N6-GVc~"
+  },
+  {
+    "name": "北京海淀区海淀绿地中央广场39号院绿地中央广场605",
+    "longitude": "116.192637",
+    "latitude": "40.071529",
+    "brandId": "511427adff058de61HRy3N6-GVc~"
+  },
+  {
+    "name": "长沙岳麓区王府井FAMILY PARK购物中心写字楼22楼",
+    "longitude": "112.933918",
+    "latitude": "28.218936",
+    "brandId": "d7427d189612bad91nx729-8EVs~"
+  },
+  {
+    "name": "长沙芙蓉区世茂环球金融中心27楼2707、2708室秦九网络",
+    "longitude": "112.984623",
+    "latitude": "28.193389",
+    "brandId": "d7427d189612bad91nx729-8EVs~"
+  },
+  {
+    "name": "长沙宁乡市楚天科技工业园(新康东路)楚天科技股份有限公司",
+    "longitude": "112.570499",
+    "latitude": "28.272974",
+    "brandId": "e401b7aed7c8e7d13nJ43Nm7GA~~"
+  },
+  {
+    "name": "苏州苏州工业园区楚天科技股份有限公司苏州分公司1栋二单元",
+    "longitude": "120.736179",
+    "latitude": "31.266085",
+    "brandId": "e401b7aed7c8e7d13nJ43Nm7GA~~"
+  },
+  {
+    "name": "长沙宁乡市湖南楚天华兴智能装备有限公司2栋",
+    "longitude": "112.612741",
+    "latitude": "28.298399",
+    "brandId": "e401b7aed7c8e7d13nJ43Nm7GA~~"
+  },
+  {
+    "name": "长沙天心区保利·国际广场长沙市天心区湘江中路保利国际中心B3栋1013-1025",
+    "longitude": "112.968695",
+    "latitude": "28.166477",
+    "brandId": "f099fd659126e5661XFy2tu5EVI~"
+  },
+  {
+    "name": "杭州西湖区杭州数字信息产业园数字产业园一期A座401",
+    "longitude": "120.06011",
+    "latitude": "30.318403",
+    "brandId": "c876521677cdfd830nN53t6-Fw~~"
+  },
+  {
+    "name": "广州天河区雅居乐中心8楼",
+    "longitude": "113.321916",
+    "latitude": "23.12436",
+    "brandId": "c876521677cdfd830nN53t6-Fw~~"
+  },
+  {
+    "name": "上海普陀区中期大厦B区3楼",
+    "longitude": "121.431993",
+    "latitude": "31.248789",
+    "brandId": "c876521677cdfd830nN53t6-Fw~~"
+  },
+  {
+    "name": "长沙岳麓区中电软件园二期D3",
+    "longitude": "112.885048",
+    "latitude": "28.228308",
+    "brandId": "ea8e4ce47f20fd851Xx82NS6ElI~"
+  },
+  {
+    "name": "长沙长沙县和祥科技园漓湘路98号和祥科技园D栋",
+    "longitude": "113.095865",
+    "latitude": "28.226433",
+    "brandId": "e2d2087b332029521nN82Nq6GQ~~"
+  },
+  {
+    "name": "长沙天心区中信文化广场15栋",
+    "longitude": "112.98384",
+    "latitude": "28.068015",
+    "brandId": "25217adf257a8a141XN90929F1I~"
+  }
+]

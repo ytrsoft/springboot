@@ -2,6 +2,9 @@ server:
   port: 8080
   max-http-header-size: 102400
 spring:
+  data:
+    rest:
+      base-path: /api
   devtools:
     restart:
       enabled: true
@@ -17,6 +20,9 @@ spring:
   datasource:
     platform: mysql
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql:///test?serverTimezone=UTC
+    url: jdbc:mysql:///boss?serverTimezone=UTC
     username: root
     password: root
+data:
+  loading:
+    enable: false
