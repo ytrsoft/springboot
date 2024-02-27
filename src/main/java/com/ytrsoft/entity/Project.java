@@ -1,6 +1,7 @@
 package com.ytrsoft.entity;
 
 import lombok.*;
+import org.springframework.data.rest.core.annotation.Description;
 
 import javax.persistence.*;
 
@@ -12,14 +13,19 @@ import javax.persistence.*;
 @ToString(callSuper = true)
 @EqualsAndHashCode(callSuper = true)
 public class Project extends BaseEntity {
-    // 关联ID
+
+    @Description("公司ID")
     private String brandId;
-    // 项目名称
+
+    @Description("名称")
     private String name;
-    // 项目描述
+
+    @Description("描述")
     @Column(columnDefinition = "TEXT")
     private String description;
-    // 项目logo
+
+    @Description("图标")
     @Column(columnDefinition = "TEXT")
     private String logo;
+
 }

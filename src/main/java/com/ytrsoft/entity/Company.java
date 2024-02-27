@@ -2,6 +2,8 @@ package com.ytrsoft.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.*;
+import org.springframework.data.rest.core.annotation.Description;
+
 import javax.persistence.*;
 import java.util.Date;
 
@@ -12,79 +14,97 @@ import java.util.Date;
 @AllArgsConstructor
 @EqualsAndHashCode(callSuper = true)
 @ToString(callSuper = true)
+@Description("公司表")
 public class Company extends BaseEntity {
-    // 关联ID
+
+    @Description("公司ID")
     private String brandId;
-    // 公司名称
+
+    @Description("公司名称")
     private String corpName;
-    // 法定代表人
+
+    @Description("法定代表人")
     private String legalRep;
-    // 成立日期
+
+    @Description("成立日期")
     @Temporal(TemporalType.DATE)
     private Date estDate;
-    // 公司类型
+
+    @Description("公司类型")
     private String corpType;
-    // 经营状态
+
+    @Description("经营状态")
     private String opStatus;
-    // 注册资本
+
+    @Description("注册资本")
     private String regCapital;
-    // 注册地址
+
+    @Description("注册地址")
     private String regAddress;
-    // 营业期限开始
+
+    @Description("营业期限开始")
     @Temporal(TemporalType.DATE)
     private Date bizTermStart;
-    // 营业期限结束
+
+    @Description("营业期限结束")
     @Temporal(TemporalType.DATE)
     private Date bizTermEnd;
-    // 地区/省份
-    @Column()
+
+    @Description("地区")
     private String region;
-    // 统一社会信用代码
-    @Column()
+
+    @Description("统一社会信用代码")
     private String uscc;
-    // 批准日期
-    @Column()
+
+    @Description("批准日期")
     @Temporal(TemporalType.DATE)
     private Date approvalDate;
-    // 曾用名
-    @Column()
+
+    @Description("曾用名")
     private String formerName;
-    // 注册机关
-    @Column()
+
+    @Description("注册机关")
     private String regAuthority;
-    // 经营范围
+
+    @Description("经营范围")
     @Column(columnDefinition = "TEXT")
     private String bizScope;
-    // 荣誉
+
+    @Description("荣誉")
     @Column(columnDefinition = "TEXT")
     private String honors;
-    // 企业文化
+
+    @Description("企业文化")
     @Column(columnDefinition = "TEXT")
     private String corpCulture;
-    // 人才发展
+
+    @Description("人才发展")
     @Column(columnDefinition = "TEXT")
     private String talentDev;
-    // 发展历程
+
+    @Description("发展历程")
     @Column(columnDefinition = "TEXT")
     private String devHistory;
-    // 福利
+
+    @Description("福利")
     @Column(columnDefinition = "TEXT")
     private String benefits;
-    // 加班文化
+
+    @Description("加班文化")
     @Column(columnDefinition = "TEXT")
     private String overtime;
-    // 工作开始时间
-    @Column()
+
     @Temporal(TemporalType.TIME)
     @JsonFormat(pattern = "HH:mm")
+    @Description("工作开始时间")
     private Date workStartTime;
-    // 工作结束时间
-    @Column()
+
     @Temporal(TemporalType.TIME)
     @JsonFormat(pattern = "HH:mm")
+    @Description("工作结束时间")
     private Date workEndTime;
-    // 公司图片
+
+    @Description("公司图片")
     @Column(columnDefinition = "TEXT")
     private String pictures;
-
 }

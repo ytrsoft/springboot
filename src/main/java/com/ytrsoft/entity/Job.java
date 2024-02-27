@@ -1,6 +1,7 @@
 package com.ytrsoft.entity;
 
 import lombok.*;
+import org.springframework.data.rest.core.annotation.Description;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
@@ -13,49 +14,71 @@ import java.math.BigDecimal;
 @EqualsAndHashCode(callSuper = true)
 @ToString(callSuper = true)
 public class Job extends BaseEntity {
-    // 关联ID
+
+    @Description("公司ID")
     private String brandId;
-    // 老板的名字
+
+    @Description("招聘人")
     private String bossName;
-    // 老板的职位
+
+    @Description("招聘人职位")
     private String bossTitle;
-    // 工作名称
+
+    @Description("职位名称")
     private String jobName;
-    // 薪资描述
+
+    @Description("薪资描述")
     private String salaryDesc;
-    // 工作标签
+
+    @Description("工作标签")
     @Column(columnDefinition = "TEXT")
     private String jobLabels;
-    // 需要的技能
+
+    @Description("工作技能")
     @Column(columnDefinition = "TEXT")
     private String skills;
-    // 工作经验要求
+
+    @Description("工作经验")
     private String jobExperience;
-    // 学历要求
+
+    @Description("学历要求")
     private String jobDegree;
-    // 城市名称
+
+    @Description("城市名称")
     private String cityName;
-    // 区域/行政区
+
+    @Description("区域")
     private String areaDistrict;
-    // 商业区
+
+    @Description("商业区")
     private String businessDistrict;
-    // 品牌名称
+
+    @Description("公司简称")
     private String brandName;
-    // 品牌logo
+
+    @Description("公司Logo")
     private String brandLogo;
-    // 品牌所在行业
+
+    @Description("所属行业")
     private String brandIndustry;
-    // 品牌规模名称
+
+    @Description("公司规模")
     private String brandScaleName;
-    // 福利列表
+
+    @Description("福利")
     private String welfareList;
-    // 工作描述
+
+    @Description("招聘需求")
     @Column(columnDefinition = "TEXT")
     private String jobDesc;
-    // 工作地点
+
+    @Description("工作地点")
     private String jobLocation;
-    // 纬度
+
+    @Description("纬度")
     private BigDecimal latitude;
-    // 经度
+
+    @Description("经度")
     private BigDecimal longitude;
+
 }

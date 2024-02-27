@@ -1,6 +1,7 @@
 package com.ytrsoft.entity;
 
 import lombok.*;
+import org.springframework.data.rest.core.annotation.Description;
 
 import javax.persistence.*;
 
@@ -12,15 +13,20 @@ import javax.persistence.*;
 @ToString(callSuper = true)
 @EqualsAndHashCode(callSuper = true)
 public class Address extends BaseEntity {
-    // 关联ID
+
+    @Description("公司ID")
     private String brandId;
-    // 地址名称
+
     @Column(columnDefinition = "TEXT")
+    @Description("名称")
     private String name;
-    // 纬度
+
     @Column(precision = 10, scale = 6)
+    @Description("纬度")
     private Double latitude;
-    // 经度
+
     @Column(precision = 10, scale = 6)
+    @Description("经度")
     private Double longitude;
+
 }
