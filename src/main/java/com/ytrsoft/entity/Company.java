@@ -14,7 +14,6 @@ import java.util.Date;
 @AllArgsConstructor
 @EqualsAndHashCode(callSuper = true)
 @ToString(callSuper = true)
-@Description("公司表")
 public class Company extends BaseEntity {
 
     @Description("公司ID")
