@@ -37,7 +37,4 @@ public class Post extends BaseEntity {
 
     private String menuId;
 
-    @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL)
-    @JoinColumn(name = "post_id")
-    private List<Image> images;
 }
