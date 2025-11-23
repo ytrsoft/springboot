@@ -19,5 +19,7 @@ import javax.persistence.ManyToOne;
 public class Image extends BaseEntity {
     private String src;
 
-    private String postId;
+    @ManyToOne
+    @JoinColumn(name = "post_id")
+    private Post post;
 }

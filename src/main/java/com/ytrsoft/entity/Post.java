@@ -37,4 +37,7 @@ public class Post extends BaseEntity {
 
     private String menuId;
 
+    @OneToMany(mappedBy = "post", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+    private List<Image> images;
+
 }
