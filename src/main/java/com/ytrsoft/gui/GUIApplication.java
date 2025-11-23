@@ -10,7 +10,7 @@ import javafx.stage.Screen;
 import javafx.stage.Stage;
 import org.apache.commons.lang3.ObjectUtils;
 
-public class GUIApplication extends Application implements AppSettings, LoginPage.LoginListener  {
+public class GUIApplication extends Application implements AppSettings, LoginPage.LoginListener {
 
     private SpringBoot springBoot;
 
@@ -24,7 +24,7 @@ public class GUIApplication extends Application implements AppSettings, LoginPag
     public void start(Stage primaryStage) {
         this.primaryStage = primaryStage;
         LoginPage loginPage = new LoginPage();
-        loginPage.setOnLoginListener(this);
+        loginPage.setListener(this);
         Scene scene = new Scene(
             loginPage,
             LOGIN_PAGE_WIDTH,

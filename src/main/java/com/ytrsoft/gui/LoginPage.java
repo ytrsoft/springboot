@@ -8,27 +8,24 @@ import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
-import javafx.scene.Node;
 import javafx.scene.control.*;
 import javafx.scene.layout.GridPane;
+import lombok.Setter;
 import org.apache.commons.lang3.ObjectUtils;
 import org.apache.commons.lang3.StringUtils;
 
 public class LoginPage extends GridPane implements AppSettings, EventHandler<ActionEvent> {
 
-    interface LoginListener {
+    public interface LoginListener {
         void login(String ip, String port);
     }
 
+    @Setter
     private LoginListener listener;
 
     private final Button loginBtn;
     private final JFXTextField ipTextField;
     private final JFXTextField portTextField;
-
-    public void setOnLoginListener(LoginListener listener) {
-        this.listener = listener;
-    }
 
     public LoginPage() {
         getStyleClass().add(MAIN_BG);
