@@ -15,8 +15,10 @@ spring:
       hibernate:
         format_sql: false
   datasource:
-    platform: mysql
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql:///test?serverTimezone=UTC
+    url: jdbc:mysql:///threads?serverTimezone=UTC
     username: root
     password: root
+  sql:
+    init:
+      platform: mysql
