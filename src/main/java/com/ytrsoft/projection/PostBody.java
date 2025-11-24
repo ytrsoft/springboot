@@ -1,18 +1,14 @@
 package com.ytrsoft.projection;
 
+import com.ytrsoft.entity.BaseEntity;
 import com.ytrsoft.entity.Image;
 import com.ytrsoft.entity.Post;
 import org.springframework.data.rest.core.config.Projection;
 
 import java.util.List;
-import java.util.Date;
 
 @Projection(name = "post", types = { Post.class })
-public interface PostBody {
-    String getId();
-    Date getCreated();
-    Date getUpdated();
-    Boolean getDeleted();
+public interface PostBody extends BaseBody {
     String getTitle();
     String getDescription();
     String getRegion();

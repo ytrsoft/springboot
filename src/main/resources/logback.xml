@@ -1,0 +1,6 @@
+<configuration>
+    <appender name="GUI" class="com.ytrsoft.gui.GUIAppender"/>
+    <root level="INFO">
+        <appender-ref ref="GUI" />
+    </root>
+</configuration>

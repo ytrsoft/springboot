@@ -27,3 +27,6 @@ spring:
   sql:
     init:
       platform: mysql
+  data:
+    rest:
+      base-path: /api
